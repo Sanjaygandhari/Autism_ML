@@ -1,0 +1,1347 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jaundice,autism,result,age_desc,relation,Class/ASD
+1,1,0,0,1,1,0,1,0,0,6,m,Others,no,no,5,4-11 years,Parent,No
+1,1,0,0,1,1,0,1,0,0,6,m,Middle Eastern ,no,no,5,4-11 years,Parent,No
+1,1,0,0,0,1,1,1,0,0,6,m,,no,no,5,4-11 years,,No
+0,1,0,0,1,1,0,0,0,1,5,f,,yes,no,4,4-11 years,,No
+1,1,1,1,1,1,1,1,1,1,5,m,Others,yes,no,10,4-11 years,Parent,Yes
+0,0,1,0,1,1,0,1,0,1,4,m,,no,yes,5,4-11 years,,No
+1,0,1,1,1,1,0,1,0,1,5,m,White-European,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,0,0,5,f,Middle Eastern ,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,0,0,0,11,f,Middle Eastern ,no,no,7,4-11 years,Parent,Yes
+0,0,1,1,1,0,1,1,0,0,11,f,,no,yes,5,4-11 years,,No
+1,0,0,0,1,1,1,1,1,1,10,m,White-European,yes,no,7,4-11 years,Self,Yes
+0,1,0,0,1,0,0,0,0,1,5,f,,no,no,3,4-11 years,,No
+0,1,1,1,1,1,1,1,1,1,4,m,White-European,yes,no,9,4-11 years,Parent,Yes
+1,0,0,0,0,0,1,0,0,0,4,f,Black,no,no,2,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,6,m,White-European,no,no,10,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,8,m,White-European,no,no,10,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,1,1,1,4,m,South Asian,no,no,9,4-11 years,Parent,Yes
+0,0,0,0,0,0,1,0,0,0,7,m,Others,no,no,1,4-11 years,Parent,No
+1,0,1,1,1,0,1,1,1,1,11,m,White-European,no,yes,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,1,0,1,5,m,,no,no,8,4-11 years,,Yes
+1,1,1,1,1,1,1,0,1,0,5,m,White-European,yes,no,8,4-11 years,Parent,Yes
+0,0,1,1,0,1,0,1,1,0,9,f,,no,no,5,4-11 years,,No
+1,1,0,1,0,0,0,0,0,0,4,m,Asian,no,no,3,4-11 years,Parent,No
+1,0,1,1,0,1,0,0,1,0,6,f,South Asian,no,no,5,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,1,1,11,m,,no,no,8,4-11 years,,Yes
+0,0,1,1,1,0,1,1,1,0,6,m,White-European,no,yes,6,4-11 years,Relative,No
+1,0,1,0,1,1,0,0,1,1,6,f,Middle Eastern ,no,no,6,4-11 years,Self,No
+1,1,1,1,1,1,1,1,1,1,5,m,White-European,yes,no,10,4-11 years,Parent,Yes
+0,1,1,0,0,0,1,1,0,1,6,m,,no,yes,5,4-11 years,,No
+0,0,1,0,1,0,1,0,0,0,4,f,Others,yes,yes,3,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,11,m,White-European,no,no,10,4-11 years,Parent,Yes
+0,0,1,0,0,1,0,0,1,1,6,m,Pasifika,yes,no,4,4-11 years,Parent,No
+1,0,0,1,0,1,1,1,1,1,,m,,no,no,7,4-11 years,,Yes
+1,0,0,0,1,1,0,1,0,1,5,m,South Asian,yes,no,5,4-11 years,Health care professional,No
+1,0,0,0,1,1,0,0,1,1,6,m,South Asian,yes,no,5,4-11 years,Parent,No
+0,1,0,0,0,0,0,0,0,0,7,f,Middle Eastern ,yes,no,1,4-11 years,Parent,No
+0,1,0,0,1,0,0,1,0,0,4,f,,no,no,3,4-11 years,,No
+1,1,0,0,0,0,0,0,0,0,7,m,Asian,no,no,2,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,4,m,White-European,yes,no,10,4-11 years,Parent,Yes
+0,1,1,1,1,1,1,1,0,1,4,m,Asian,no,no,8,4-11 years,Parent,Yes
+0,0,1,1,1,1,0,1,0,1,5,m,,yes,no,6,4-11 years,,No
+0,1,0,0,0,0,0,0,0,0,4,m,Middle Eastern ,no,no,1,4-11 years,Parent,No
+1,0,0,0,1,0,1,0,0,1,6,f,Middle Eastern ,no,no,4,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,1,1,4,f,,no,no,8,4-11 years,,Yes
+0,0,0,1,0,0,1,0,0,0,10,m,Middle Eastern ,no,no,2,4-11 years,Parent,No
+0,1,1,0,1,1,0,0,0,1,4,f,Middle Eastern ,yes,no,5,4-11 years,Relative,No
+0,1,1,0,1,1,0,0,0,0,4,f,Middle Eastern ,yes,no,4,4-11 years,Relative,No
+1,1,1,0,1,0,1,1,0,1,6,m,,no,no,7,4-11 years,,Yes
+1,0,1,1,1,1,0,0,1,1,6,f,White-European,yes,no,7,4-11 years,Parent,Yes
+0,1,0,0,1,0,0,0,0,0,7,m,Middle Eastern ,no,yes,2,4-11 years,Parent,No
+0,1,0,0,1,0,1,0,0,1,7,m,,yes,no,4,4-11 years,,No
+0,0,1,0,1,1,1,0,1,1,4,m,Asian,no,no,6,4-11 years,Parent,No
+1,0,0,1,0,1,0,1,1,1,6,m,,no,no,6,4-11 years,,No
+1,1,1,1,1,1,1,0,1,1,7,m,White-European,yes,no,9,4-11 years,Parent,Yes
+1,0,1,1,0,1,0,0,0,1,5,m,,no,no,5,4-11 years,,No
+0,0,1,0,1,0,0,0,0,0,5,m,White-European,no,no,2,4-11 years,Parent,No
+0,0,1,0,0,1,0,0,0,0,6,m,,no,no,2,4-11 years,,No
+1,0,1,1,1,1,1,1,1,1,4,f,White-European,no,no,9,4-11 years,Parent,Yes
+1,0,1,1,1,1,1,1,1,0,9,f,Middle Eastern ,no,no,8,4-11 years,Health care professional,Yes
+1,0,1,1,1,1,0,0,1,1,4,m,Hispanic,no,yes,7,4-11 years,Parent,Yes
+1,0,1,0,1,0,0,0,0,0,4,m,Turkish,no,no,3,4-11 years,Relative,No
+1,0,1,1,1,1,1,1,1,1,9,m,White-European,no,no,9,4-11 years,Parent,Yes
+1,1,1,0,1,1,0,0,0,1,4,f,White-European,yes,no,6,4-11 years,Parent,No
+1,1,1,0,1,1,1,1,1,1,9,m,Asian,yes,no,9,4-11 years,Parent,Yes
+1,0,1,1,0,0,0,1,0,1,8,m,Middle Eastern ,no,no,5,4-11 years,Parent,No
+0,0,1,0,0,0,0,0,0,0,,m,Middle Eastern ,no,no,1,4-11 years,Parent,No
+1,0,0,0,1,0,0,0,0,1,4,m,White-European,no,no,3,4-11 years,Parent,No
+1,0,0,0,1,0,1,0,0,1,4,m,White-European,no,no,4,4-11 years,Parent,No
+0,0,1,0,1,1,1,0,1,0,4,f,,no,yes,5,4-11 years,,No
+1,0,1,1,1,1,1,1,1,1,4,m,White-European,no,yes,9,4-11 years,Parent,Yes
+1,0,1,0,1,0,1,0,0,1,7,m,Asian,no,no,5,4-11 years,Parent,No
+0,1,0,0,1,0,1,0,0,1,7,f,White-European,yes,no,4,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,0,1,6,m,South Asian,no,no,7,4-11 years,Parent,Yes
+1,0,1,1,1,1,0,1,1,1,5,f,Middle Eastern ,no,no,8,4-11 years,Parent,Yes
+1,0,1,1,1,1,0,0,1,1,8,f,Middle Eastern ,no,yes,7,4-11 years,Parent,Yes
+0,0,0,1,1,1,1,1,1,0,5,m,White-European,no,no,6,4-11 years,Parent,No
+1,1,1,1,0,1,1,1,1,1,11,f,Others,no,no,9,4-11 years,Parent,Yes
+1,0,0,0,1,0,1,0,0,1,8,m,White-European,yes,no,4,4-11 years,Parent,No
+1,1,1,1,1,1,1,0,1,1,4,m,Latino,no,yes,9,4-11 years,Parent,Yes
+0,1,1,1,0,1,0,1,1,0,7,m,White-European,yes,no,6,4-11 years,Parent,No
+1,0,0,1,0,1,0,0,0,0,4,m,White-European,no,no,3,4-11 years,Parent,No
+0,1,1,1,1,1,1,1,1,1,7,m,White-European,yes,yes,9,4-11 years,Parent,Yes
+1,0,1,1,1,1,1,1,0,1,8,m,White-European,no,no,8,4-11 years,Parent,Yes
+0,1,1,0,1,1,0,0,0,1,5,m,Asian,no,no,5,4-11 years,Parent,No
+0,0,1,0,1,1,1,0,1,1,4,m,Asian,no,no,6,4-11 years,Parent,No
+1,1,1,1,1,1,1,0,1,1,11,f,White-European,no,no,9,4-11 years,Parent,Yes
+1,1,1,1,0,0,1,0,1,1,11,f,White-European,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,4,m,White-European,no,no,10,4-11 years,Parent,Yes
+1,1,1,1,0,1,0,0,0,0,5,m,Latino,no,yes,5,4-11 years,Parent,No
+0,1,1,1,1,1,1,1,1,1,6,m,Hispanic,no,no,9,4-11 years,Parent,Yes
+1,0,1,1,1,1,1,0,1,1,4,f,White-European,no,no,8,4-11 years,Parent,Yes
+1,0,0,1,1,1,1,0,0,0,11,f,White-European,yes,yes,5,4-11 years,Relative,No
+0,0,1,1,1,1,1,1,1,1,5,m,Asian,no,no,8,4-11 years,Parent,Yes
+0,0,1,1,1,1,1,1,1,1,5,m,Asian,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,6,m,Latino,no,no,10,4-11 years,Parent,Yes
+1,0,1,0,1,1,1,1,0,1,7,m,Hispanic,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,1,0,1,11,m,White-European,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,0,1,0,1,1,4,m,White-European,no,no,8,4-11 years,Parent,Yes
+1,1,1,0,1,1,1,0,1,1,4,m,White-European,no,yes,8,4-11 years,Parent,Yes
+0,0,1,1,0,0,0,0,0,0,7,m,White-European,no,yes,2,4-11 years,Parent,No
+1,1,0,1,0,1,1,0,1,0,11,f,White-European,yes,yes,6,4-11 years,Relative,No
+1,1,1,1,0,1,1,0,0,1,6,f,Asian,no,no,7,4-11 years,Parent,Yes
+0,0,0,0,0,0,1,0,1,0,9,f,White-European,no,no,2,4-11 years,Parent,No
+0,1,0,1,0,1,0,0,1,1,10,m,Others,no,no,5,4-11 years,Relative,No
+0,0,0,0,1,1,1,0,0,1,4,m,Asian,no,yes,4,4-11 years,Parent,No
+1,1,1,1,1,1,0,1,0,1,4,m,Asian,yes,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,0,1,1,10,m,White-European,yes,no,8,4-11 years,Parent,Yes
+1,0,0,0,1,0,0,0,0,1,4,f,White-European,yes,yes,3,4-11 years,Parent,No
+0,1,0,0,0,1,1,1,0,0,11,m,Asian,no,no,4,4-11 years,Parent,No
+0,0,1,0,1,0,0,0,0,1,7,m,Asian,no,no,3,4-11 years,Parent,No
+0,1,1,1,1,0,1,1,0,1,5,m,,no,no,7,4-11 years,,Yes
+1,1,0,0,0,0,0,0,0,1,4,f,White-European,no,no,3,4-11 years,Parent,No
+0,0,1,1,1,1,0,1,1,1,8,m,White-European,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,0,4,m,White-European,no,no,9,4-11 years,Parent,Yes
+1,0,1,0,1,1,0,1,0,1,4,m,South Asian,no,no,6,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,11,m,Asian,yes,no,10,4-11 years,Relative,Yes
+1,1,1,1,1,1,1,0,1,1,10,f,Asian,no,no,9,4-11 years,Parent,Yes
+1,1,0,1,0,1,0,0,1,1,6,f,White-European,no,no,6,4-11 years,Parent,No
+0,0,0,1,1,1,1,1,1,0,4,m,Asian,no,no,6,4-11 years,Relative,No
+0,1,1,0,1,0,0,0,0,1,4,m,Asian,no,yes,4,4-11 years,Parent,No
+0,1,1,1,0,1,0,1,1,1,4,m,Asian,no,no,7,4-11 years,Relative,Yes
+0,0,1,1,0,0,1,1,1,0,10,m,White-European,no,no,5,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,7,m,White-European,no,no,10,4-11 years,Relative,Yes
+0,1,1,0,0,1,1,1,0,0,4,m,,yes,no,5,4-11 years,,No
+1,1,1,0,0,1,1,1,1,1,6,f,White-European,yes,no,8,4-11 years,Parent,Yes
+0,1,1,0,1,1,1,1,1,1,5,m,Asian,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,0,1,0,1,0,1,,m,,yes,no,7,4-11 years,,Yes
+0,0,1,0,1,1,1,1,1,1,4,f,Asian,yes,no,7,4-11 years,Parent,Yes
+1,0,1,0,1,1,1,1,0,0,9,m,Asian,no,no,6,4-11 years,Parent,No
+1,0,1,1,0,1,1,1,0,1,4,f,White-European,yes,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,9,4-11 years,Parent,Yes
+1,1,0,0,0,0,1,0,0,1,9,m,White-European,no,no,4,4-11 years,Parent,No
+0,1,1,1,1,1,0,0,0,1,5,m,White-European,yes,yes,6,4-11 years,Parent,No
+1,1,1,0,0,0,0,0,1,1,4,f,Black,no,no,5,4-11 years,Parent,No
+1,1,1,1,1,1,0,1,1,1,4,m,White-European,no,yes,9,4-11 years,Parent,Yes
+0,1,1,1,1,0,0,0,1,0,6,m,White-European,no,no,5,4-11 years,Parent,No
+1,1,1,0,1,0,1,0,1,1,4,f,White-European,yes,no,7,4-11 years,Parent,Yes
+0,0,0,0,0,0,0,0,0,0,5,f,Hispanic,no,no,0,4-11 years,Parent,No
+0,1,1,0,1,1,1,1,0,0,,m,,yes,no,6,4-11 years,,No
+1,1,1,1,1,1,1,1,1,1,9,m,White-European,yes,yes,10,4-11 years,Parent,Yes
+1,0,1,1,1,0,1,1,1,1,7,f,White-European,no,no,8,4-11 years,Parent,Yes
+0,1,1,0,0,1,1,1,0,1,10,f,White-European,no,no,6,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,0,1,4,m,South Asian,no,no,7,4-11 years,Parent,Yes
+1,0,1,1,0,1,1,1,0,1,4,m,Asian,no,no,7,4-11 years,Relative,Yes
+1,1,0,1,1,1,1,0,0,0,7,f,White-European,no,no,6,4-11 years,Parent,No
+1,1,1,1,1,1,1,0,1,1,4,m,Black,yes,no,9,4-11 years,Parent,Yes
+0,1,1,0,1,0,1,0,0,1,4,m,,yes,no,5,4-11 years,,No
+1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,9,4-11 years,Health care professional,Yes
+0,0,1,0,1,1,0,1,1,1,4,m,Asian,no,no,6,4-11 years,Parent,No
+0,0,0,0,1,1,1,0,0,0,4,m,,no,no,3,4-11 years,,No
+1,1,1,1,1,1,0,0,0,1,4,m,South Asian,no,yes,7,4-11 years,Parent,Yes
+1,0,1,0,1,1,0,1,1,1,4,m,Black,no,yes,7,4-11 years,Parent,Yes
+0,1,1,0,0,0,1,1,1,1,7,m,White-European,yes,no,6,4-11 years,Parent,No
+1,1,1,1,1,1,1,0,1,1,4,m,White-European,no,no,9,4-11 years,Parent,Yes
+1,1,1,1,1,0,1,0,1,1,5,f,White-European,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,0,1,6,m,Others,yes,no,9,4-11 years,Parent,Yes
+0,1,0,0,0,1,1,1,1,1,6,f,Asian,no,no,6,4-11 years,Parent,No
+1,1,0,0,1,1,1,1,1,1,6,f,White-European,no,yes,8,4-11 years,Parent,Yes
+0,1,0,1,1,1,1,0,1,1,9,m,White-European,no,yes,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,8,m,White-European,no,no,10,4-11 years,Parent,Yes
+1,0,1,1,1,1,0,1,0,1,11,m,,no,no,7,4-11 years,,Yes
+1,0,0,0,1,1,1,1,1,1,9,m,White-European,no,no,7,4-11 years,Parent,Yes
+0,1,0,0,0,1,0,0,0,1,9,f,White-European,no,yes,3,4-11 years,Parent,No
+1,0,0,1,1,1,1,0,1,1,7,m,Black,no,no,7,4-11 years,Parent,Yes
+0,0,1,0,0,1,1,0,0,1,4,m,Asian,no,no,4,4-11 years,Relative,No
+1,0,0,0,1,1,1,0,0,1,10,f,Others,no,no,5,4-11 years,Self,No
+0,0,0,0,1,0,1,1,0,1,8,m,Middle Eastern ,no,no,4,4-11 years,Parent,No
+1,0,1,1,1,1,1,1,0,1,6,m,Others,no,no,8,4-11 years,Parent,Yes
+0,1,1,1,1,1,0,1,1,1,8,m,,yes,no,8,4-11 years,,Yes
+1,0,1,1,1,1,1,1,1,1,11,f,White-European,no,no,9,4-11 years,Parent,Yes
+1,1,1,0,1,0,1,0,0,0,5,f,White-European,no,no,5,4-11 years,Parent,No
+0,0,1,0,1,0,1,0,0,1,4,f,White-European,no,yes,4,4-11 years,Relative,No
+1,1,1,1,1,1,1,1,1,1,11,m,White-European,no,no,10,4-11 years,Parent,Yes
+0,0,1,1,1,1,0,0,0,1,11,f,Others,yes,no,5,4-11 years,Self,No
+0,1,1,0,0,1,1,1,0,0,4,m,,yes,no,5,4-11 years,,No
+1,0,1,0,1,1,0,0,0,0,8,m,White-European,no,no,4,4-11 years,Parent,No
+1,0,1,1,1,0,0,0,0,0,8,m,White-European,no,no,4,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,9,m,White-European,no,no,10,4-11 years,Parent,Yes
+0,0,0,1,0,1,0,0,1,1,4,m,Asian,no,no,4,4-11 years,Parent,No
+0,0,1,0,1,1,1,1,1,1,4,m,Asian,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,0,1,1,4,f,,yes,no,8,4-11 years,,Yes
+0,1,1,0,1,0,1,0,0,0,4,f,,no,no,4,4-11 years,,No
+1,0,0,1,1,1,1,1,1,1,11,m,Hispanic,no,no,8,4-11 years,Self,Yes
+0,1,1,1,0,1,0,0,0,1,10,f,Asian,no,no,5,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,0,1,11,m,Asian,no,no,7,4-11 years,Parent,Yes
+1,0,1,0,1,0,1,0,1,1,4,m,Black,yes,no,6,4-11 years,Parent,No
+1,1,1,0,1,0,1,1,1,1,4,m,White-European,yes,no,8,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,6,f,Black,no,no,10,4-11 years,Parent,Yes
+0,0,1,1,1,1,1,1,0,0,8,m,White-European,no,no,6,4-11 years,Parent,No
+1,1,1,1,1,0,1,1,1,1,4,f,White-European,no,yes,9,4-11 years,Parent,Yes
+1,1,1,0,1,1,0,1,0,1,4,m,,no,no,7,4-11 years,,Yes
+1,1,0,1,1,1,1,0,0,1,8,m,White-European,no,no,7,4-11 years,Parent,Yes
+1,1,1,0,1,1,0,0,1,1,11,m,Hispanic,no,no,7,4-11 years,Relative,Yes
+1,0,1,0,1,1,1,0,1,0,4,f,White-European,yes,yes,6,4-11 years,Parent,No
+1,1,0,0,1,1,1,0,0,0,5,m,,no,no,5,4-11 years,,No
+1,1,1,0,0,0,0,0,0,0,4,m,White-European,no,no,3,4-11 years,Parent,No
+1,1,1,1,1,1,0,0,1,1,8,m,Black,no,no,8,4-11 years,Parent,Yes
+0,0,1,0,1,1,1,1,1,1,4,m,Pasifika,no,no,7,4-11 years,Health care professional,Yes
+0,1,1,1,1,1,1,1,1,1,4,m,South Asian,no,no,9,4-11 years,Parent,Yes
+1,0,0,0,1,0,1,0,0,1,9,m,White-European,no,yes,4,4-11 years,Parent,No
+1,0,0,0,1,0,1,0,0,1,9,m,White-European,yes,yes,4,4-11 years,Parent,No
+1,1,1,1,1,1,1,0,1,0,4,f,White-European,no,yes,8,4-11 years,Parent,Yes
+0,0,1,0,1,0,1,0,0,1,5,m,South Asian,no,no,4,4-11 years,Relative,No
+1,1,1,1,1,1,0,0,0,1,7,f,Asian,yes,no,7,4-11 years,Parent,Yes
+1,0,1,1,1,0,1,1,1,1,4,f,White-European,yes,no,8,4-11 years,Parent,Yes
+1,1,1,1,0,1,0,0,0,0,5,f,White-European,no,no,5,4-11 years,Parent,No
+1,1,1,1,1,1,0,1,1,0,6,m,Asian,no,no,8,4-11 years,Health care professional,Yes
+1,1,1,1,0,1,1,1,1,1,8,m,White-European,no,no,9,4-11 years,Parent,Yes
+1,0,0,0,1,0,0,0,0,1,4,m,Asian,no,no,3,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,0,0,5,m,Latino,no,yes,6,4-11 years,Parent,No
+1,0,1,1,1,1,0,1,0,1,5,m,Latino,no,yes,7,4-11 years,Parent,Yes
+1,0,1,0,1,0,1,0,1,1,6,m,White-European,yes,no,6,4-11 years,Parent,No
+0,1,1,0,1,1,0,0,0,1,4,m,,yes,no,5,4-11 years,,No
+0,0,1,0,1,1,1,0,1,1,8,m,White-European,no,no,6,4-11 years,Parent,No
+1,0,1,1,0,1,0,1,1,0,5,m,South Asian,no,no,6,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,4,f,Asian,no,yes,10,4-11 years,Parent,Yes
+1,0,1,1,1,1,1,1,1,0,6,m,White-European,no,no,8,4-11 years,Parent,Yes
+0,0,0,0,0,0,0,0,0,1,11,m,Turkish,no,yes,1,4-11 years,Parent,No
+0,0,1,0,0,0,1,0,1,0,6,m,Others,no,no,3,4-11 years,Parent,No
+1,0,1,1,1,1,1,1,1,1,4,f,Hispanic,no,no,9,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,8,m,White-European,no,no,10,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,0,0,1,4,m,White-European,no,yes,8,4-11 years,Parent,Yes
+1,1,1,1,1,0,1,1,0,0,4,m,White-European,no,no,7,4-11 years,Parent,Yes
+1,1,1,1,1,1,0,0,1,1,6,m,White-European,no,no,8,4-11 years,Parent,Yes
+1,0,1,1,1,0,0,0,0,0,8,m,White-European,yes,no,4,4-11 years,Health care professional,No
+1,1,1,1,1,1,1,1,1,1,9,m,Black,yes,no,10,4-11 years,Parent,Yes
+0,0,0,0,1,1,0,1,0,1,8,f,South Asian,no,no,4,4-11 years,Parent,No
+0,0,1,0,1,1,1,1,1,1,5,m,South Asian,no,no,7,4-11 years,Parent,Yes
+1,0,0,0,1,0,1,1,0,0,5,m,Middle Eastern ,no,no,4,4-11 years,Health care professional,No
+1,1,1,1,0,1,0,1,1,1,4,m,Asian,yes,no,8,4-11 years,Health care professional,Yes
+1,0,0,1,1,1,1,1,1,1,10,m,White-European,no,no,8,4-11 years,Parent,Yes
+0,1,1,0,0,1,1,0,0,1,4,m,,yes,no,5,4-11 years,,No
+0,1,1,1,1,1,1,0,0,1,4,m,,yes,no,7,4-11 years,,Yes
+0,1,1,1,1,1,0,1,1,1,5,m,,no,no,8,4-11 years,,Yes
+0,1,1,0,1,1,1,0,0,0,4,m,Others,yes,no,5,4-11 years,Parent,No
+0,0,1,1,1,1,0,1,0,1,5,m,,no,no,6,4-11 years,,No
+1,1,1,1,1,1,1,0,1,1,7,f,Asian,no,no,9,4-11 years,Parent,Yes
+0,1,1,0,0,1,0,0,1,1,11,f,Latino,yes,no,5,4-11 years,Health care professional,No
+1,0,0,1,0,1,0,1,1,0,11,m,Asian,no,no,5,4-11 years,Parent,No
+1,0,0,1,1,1,0,0,0,1,11,f,White-European,no,yes,5,4-11 years,Parent,No
+1,1,1,1,0,0,1,0,1,0,9,m,South Asian,no,no,6,4-11 years,Parent,No
+1,0,1,0,1,1,1,0,0,1,6,m,South Asian,yes,no,6,4-11 years,Parent,No
+0,1,0,0,0,0,1,0,0,1,6,m,,yes,no,3,4-11 years,,No
+1,1,0,0,0,0,1,0,0,0,9,f,,yes,no,3,4-11 years,,No
+0,1,1,0,1,1,0,1,0,1,7,m,,yes,no,6,4-11 years,,No
+1,1,1,0,0,1,0,1,0,1,5,m,Middle Eastern ,no,no,6,4-11 years,Parent,No
+1,1,1,0,1,0,0,0,0,0,5,m,Middle Eastern ,yes,no,4,4-11 years,Parent,No
+0,0,0,0,0,0,1,0,0,0,10,m,Middle Eastern ,no,yes,1,4-11 years,Parent,No
+0,0,1,0,0,0,1,0,0,1,7,m,Middle Eastern ,no,no,3,4-11 years,Parent,No
+0,1,0,1,1,0,1,1,0,1,9,m,,yes,no,6,4-11 years,,No
+0,1,0,1,1,1,1,1,0,1,7,m,Middle Eastern ,yes,no,7,4-11 years,Parent,Yes
+0,1,1,1,1,1,1,1,0,1,7,m,,yes,no,8,4-11 years,,Yes
+1,0,1,0,1,1,1,1,0,1,7,m,Middle Eastern ,yes,no,7,4-11 years,Parent,Yes
+1,0,1,1,1,1,1,1,0,1,9,f,Middle Eastern ,no,no,8,4-11 years,Parent,Yes
+1,1,1,0,0,1,0,0,0,1,5,m,Middle Eastern ,yes,no,5,4-11 years,Parent,No
+1,1,1,0,1,1,0,0,0,0,4,m,South Asian,no,no,5,4-11 years,Parent,No
+0,0,0,1,1,1,0,0,0,1,5,m,Asian,no,yes,4,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,4,f,South Asian,no,no,10,4-11 years,Health care professional,Yes
+1,0,0,0,1,0,1,0,0,1,5,m,South Asian,no,no,4,4-11 years,Parent,No
+1,0,1,1,1,1,1,1,0,1,5,m,Black,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,0,1,0,0,0,1,4,m,White-European,no,no,6,4-11 years,Parent,No
+1,1,0,0,1,0,1,1,0,0,6,m,Asian,no,no,5,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,1,6,f,Black,no,no,10,4-11 years,Parent,Yes
+0,1,1,0,0,1,1,0,1,1,5,m,Asian,no,no,6,4-11 years,Relative,No
+1,0,1,1,1,1,1,0,1,1,11,m,White-European,no,no,8,4-11 years,Parent,Yes
+1,1,1,1,0,1,0,1,1,1,10,m,Black,yes,no,8,4-11 years,Parent,Yes
+1,1,0,0,1,1,0,0,0,1,4,m,South Asian,no,no,5,4-11 years,Parent,No
+1,0,1,1,1,1,1,1,1,1,5,m,Others,no,no,9,4-11 years,Parent,Yes
+1,0,1,0,1,1,1,0,1,1,10,m,,yes,no,7,4-11 years,,Yes
+1,0,1,0,0,0,1,1,0,0,9,m,Middle Eastern ,yes,no,4,4-11 years,Parent,No
+0,1,1,1,1,1,0,1,0,1,4,m,Asian,no,no,7,4-11 years,Parent,Yes
+1,0,1,0,0,0,0,0,1,0,4,f,White-European,no,yes,3,4-11 years,Parent,No
+0,0,1,0,0,0,1,0,1,0,5,m,Black,no,no,3,4-11 years,Parent,No
+1,1,1,1,1,0,1,1,1,1,8,m,White-European,no,yes,9,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,0,1,1,8,m,White-European,yes,no,9,4-11 years,Parent,Yes
+1,0,1,1,0,0,0,0,1,0,6,m,Asian,no,no,4,4-11 years,Health care professional,No
+0,0,1,0,1,1,1,1,0,1,11,m,Asian,no,no,6,4-11 years,Parent,No
+1,1,1,0,1,1,0,0,1,1,10,f,Asian,no,no,7,4-11 years,Parent,Yes
+1,0,0,0,1,0,0,1,0,1,6,f,White-European,no,no,4,4-11 years,Parent,No
+1,1,1,1,1,1,1,1,1,0,6,m,Asian,no,yes,9,4-11 years,Parent,Yes
+0,0,1,0,0,0,0,0,0,1,4,m,Black,no,yes,2,4-11 years,Parent,No
+0,1,1,1,1,1,0,0,0,1,4,m,White-European,no,no,6,4-11 years,Parent,No
+0,1,1,0,0,1,0,1,1,1,4,f,White-European,yes,no,6,4-11 years,Parent,No
+0,0,0,0,1,1,1,0,1,0,5,m,Others,no,no,4,4-11 years,Parent,No
+1,0,1,0,1,1,1,0,0,1,10,f,White-European,no,no,6,4-11 years,Health care professional,No
+0,1,0,1,1,1,1,1,1,1,10,f,White-European,no,no,8,4-11 years,Health care professional,Yes
+0,1,1,1,1,1,1,1,1,1,5,f,Latino,yes,no,9,4-11 years,Parent,Yes
+1,1,1,1,1,1,1,1,1,1,7,f,White-European,yes,yes,10,4-11 years,Parent,Yes
+1,0,0,0,1,0,1,0,0,1,7,f,White-European,yes,yes,4,4-11 years,Parent,No
+1,0,1,1,1,1,1,0,0,1,4,m,Latino,no,no,7,4-11 years,Parent,Yes
+1,1,1,0,1,1,1,1,1,1,4,m,South Asian,no,no,9,4-11 years,Parent,Yes
+0,0,1,0,1,0,1,0,0,0,4,f,South Asian,no,no,3,4-11 years,Parent,No
+0,0,0,0,0,0,1,1,0,1,2.3,f,middle eastern,yes,no,3,1-3 years,family member,No
+1,1,0,0,0,1,1,0,0,0,3,m,White European,yes,no,4,1-3 years,family member,Yes
+1,0,0,0,0,0,1,1,0,1,3,m,middle eastern,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2,m,Hispanic,no,no,10,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,1.7,f,White European,no,yes,9,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,1,1,1.8,m,black,no,no,8,1-3 years,family member,Yes
+1,0,0,1,1,1,0,0,1,0,2.8,m,asian,yes,no,5,1-3 years,family member,Yes
+0,1,0,0,1,0,1,1,1,1,2.8,m,asian,yes,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,3,m,asian,no,no,2,1-3 years,family member,No
+1,1,1,0,1,1,0,1,1,1,1.8,m,south asian,no,no,8,1-3 years,Health care professional,Yes
+1,0,0,1,0,1,1,0,1,1,3,m,Hispanic,yes,yes,6,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,0,1,1.4,m,middle eastern,yes,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.1,f,middle eastern,yes,no,0,1-3 years,family member,No
+1,1,1,1,0,0,1,0,1,1,1.2,f,middle eastern,yes,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1.5,m,middle eastern,no,no,0,1-3 years,family member,No
+1,1,1,0,1,0,1,1,0,1,1,m,black,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,middle eastern,no,yes,0,1-3 years,family member,No
+1,1,1,0,1,1,1,1,0,1,1,f,middle eastern,yes,no,8,1-3 years,family member,Yes
+1,0,0,0,1,0,0,0,0,1,2.4,f,middle eastern,no,no,3,1-3 years,family member,No
+1,1,1,0,1,0,1,1,0,1,1,f,black,no,no,7,1-3 years,family member,Yes
+1,0,0,1,1,1,1,1,1,0,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,0,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,0,1,1,0,1,0,1,1,1,3,m,Native Indian,yes,yes,7,1-3 years,Health care professional,Yes
+1,1,1,0,1,1,0,1,1,0,3,m,middle eastern,yes,yes,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.8,m,White European,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2,f,middle eastern,no,no,0,1-3 years,family member,No
+1,1,0,1,1,1,1,1,0,1,3,m,middle eastern,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.9,m,Others,yes,no,10,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,1,1,3,m,middle eastern,no,yes,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.7,m,middle eastern,yes,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.5,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,Health care professional,No
+0,0,0,0,0,0,0,0,0,0,1,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.2,f,middle eastern,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.2,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.2,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.2,f,black,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.2,f,black,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.2,f,middle eastern,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,1,1.6,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.5,m,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1,f,White European,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,White European,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,Self,No
+0,0,0,0,0,0,0,0,0,1,1,m,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,f,middle eastern,no,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1,f,middle eastern,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,f,black,no,no,1,1-3 years,family member,No
+0,0,1,1,0,1,1,0,1,1,3,f,White European,no,no,6,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,1,1,2.7,f,south asian,no,no,5,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,1,0,2.1,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,1,1.2,f,White European,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.1,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.1,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,1,1-3 years,family member,No
+1,1,0,0,1,1,1,1,1,1,3,m,White European,yes,no,8,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,0,0,2.5,m,White European,no,no,5,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,1,0,3,m,middle eastern,yes,yes,3,1-3 years,family member,No
+1,1,1,1,1,1,1,0,1,1,1,f,White European,no,yes,9,1-3 years,family member,Yes
+0,0,0,0,1,0,1,1,0,1,3,f,middle eastern,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,2.4,m,White European,no,yes,1,1-3 years,family member,No
+1,0,1,0,0,0,0,0,0,0,1.9,m,south asian,no,yes,2,1-3 years,family member,No
+1,0,1,1,1,1,1,0,1,1,1.5,f,asian,yes,yes,8,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,0,0,2.8,m,Others,no,no,6,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,1,2.8,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.8,f,White European,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,2.5,m,middle eastern,no,no,1,1-3 years,family member,No
+1,1,0,0,1,0,1,0,0,0,2.2,m,asian,no,no,4,1-3 years,family member,Yes
+1,0,0,1,1,1,1,1,1,0,1.6,m,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,asian,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,m,asian,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,m,asian,no,no,0,1-3 years,family member,No
+1,0,0,0,0,0,0,1,0,1,2.5,m,middle eastern,no,no,3,1-3 years,Health care professional,No
+0,1,0,0,0,0,0,0,0,1,2.5,m,middle eastern,no,no,2,1-3 years,family member,No
+1,0,1,1,0,1,1,1,1,0,2.4,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,0,1,3,f,White European,yes,no,8,1-3 years,family member,Yes
+1,0,1,1,0,1,1,1,1,0,2.5,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,0,1,2.5,m,middle eastern,no,no,6,1-3 years,family member,Yes
+0,0,0,1,1,1,0,0,1,1,1.9,m,White European,yes,yes,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1.8,m,middle eastern,yes,yes,0,1-3 years,family member,No
+0,0,0,1,0,0,1,0,0,1,1.7,m,middle eastern,no,no,3,1-3 years,family member,No
+1,0,0,0,1,0,1,0,1,0,2.8,m,asian,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.8,m,asian,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.8,m,asian,no,no,1,1-3 years,family member,No
+1,0,0,0,0,0,1,0,0,1,2.8,m,asian,no,no,3,1-3 years,family member,No
+1,1,0,0,1,1,1,1,1,0,2.7,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,3,f,Others,yes,yes,1,1-3 years,family member,No
+0,0,0,1,0,0,1,1,1,1,2.8,m,asian,no,no,5,1-3 years,family member,Yes
+0,1,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,2,1-3 years,family member,No
+1,0,1,1,1,1,1,0,1,1,2,f,asian,no,no,8,1-3 years,family member,Yes
+1,0,0,0,1,0,1,1,1,1,2.8,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.8,m,asian,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,2.6,f,Others,no,no,1,1-3 years,family member,No
+0,0,1,1,0,0,0,0,0,0,2,m,middle eastern,no,no,2,1-3 years,family member,No
+0,0,0,0,0,1,1,1,0,1,2.6,f,middle eastern,no,yes,4,1-3 years,family member,Yes
+1,0,0,1,0,1,1,0,0,1,2.6,f,middle eastern,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,0,0,0,1,1,0,3,m,middle eastern,no,no,4,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,0,1,2.6,f,middle eastern,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.1,m,middle eastern,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.9,f,middle eastern,yes,no,1,1-3 years,family member,No
+1,1,0,0,1,1,0,1,0,1,2,m,middle eastern,no,no,6,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,0,1,3,f,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,3,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,1,0,1,0,0,0,1,m,middle eastern,no,no,2,1-3 years,family member,No
+0,1,0,0,0,0,1,1,0,1,3,m,south asian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,0,0,2.7,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,1,1,0,0,2.7,m,asian,no,no,2,1-3 years,family member,No
+1,1,0,0,1,1,1,0,1,1,2.5,m,White European,yes,yes,7,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,1,2.7,m,asian,no,no,8,1-3 years,family member,Yes
+0,0,1,1,0,0,1,0,0,1,2.7,m,asian,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.4,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,0,0,2.3,m,middle eastern,no,no,3,1-3 years,family member,No
+1,1,0,1,1,1,0,0,0,1,1.5,m,Hispanic,yes,yes,6,1-3 years,family member,Yes
+0,1,0,1,1,0,1,0,0,1,2.2,m,asian,no,no,5,1-3 years,family member,Yes
+0,1,0,0,0,1,1,1,0,1,2.2,f,White European,no,yes,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,2.2,f,White European,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,1,0,0,0,0,2.1,f,asian,no,no,1,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,1,1.6,m,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,0,1,0,1,1,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.1,f,White European,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,3,m,middle eastern,no,no,1,1-3 years,family member,No
+0,0,1,1,1,1,1,0,0,1,1.4,f,White European,yes,no,6,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,1,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,1,0,1,1,1,0,0,1,3,f,asian,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,0,0,1,1,1,1.7,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.8,f,south asian,yes,no,0,1-3 years,family member,No
+1,0,0,0,1,0,0,0,0,0,2.8,f,south asian,yes,no,2,1-3 years,family member,No
+1,1,0,0,1,0,0,1,0,0,2.8,f,south asian,yes,yes,4,1-3 years,family member,Yes
+0,0,0,0,1,0,0,0,0,0,2.8,f,south asian,yes,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2,m,middle eastern,yes,no,10,1-3 years,family member,Yes
+0,0,1,1,1,0,0,0,1,0,3,m,asian,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.9,m,south asian,no,no,9,1-3 years,family member,Yes
+1,1,0,0,0,0,0,1,1,0,2.2,f,asian,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.9,m,south asian,no,no,9,1-3 years,family member,Yes
+1,1,0,1,1,0,1,0,1,1,2,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,0,0,0,1,0,1,0,1,3,f,White European,no,no,5,1-3 years,family member,Yes
+0,1,0,0,0,0,1,0,0,1,3,f,asian,no,no,3,1-3 years,family member,No
+0,0,0,0,1,1,1,0,0,0,2.2,f,middle eastern,yes,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,1.9,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,0,1,1,1,0,1,1,0,1.9,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,m,asian,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,0,2.5,f,Latino,no,yes,1,1-3 years,family member,No
+1,0,0,0,0,0,0,1,0,0,1.6,m,White European,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,1,0,1,3,f,asian,no,no,2,1-3 years,Health care professional,No
+0,1,0,1,0,0,1,0,0,1,2.8,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,0,1,2.8,m,asian,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,2.2,m,White European,no,no,9,1-3 years,family member,Yes
+1,1,0,1,0,0,1,0,0,1,2.8,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,3,m,middle eastern,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,2,f,White European,no,yes,9,1-3 years,family member,Yes
+0,0,1,1,1,1,0,1,1,0,2.3,m,middle eastern,no,no,6,1-3 years,family member,Yes
+0,1,1,1,0,1,0,1,0,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,1,1,1,0,1,1,1,1,1,2.5,m,asian,no,no,8,1-3 years,family member,Yes
+0,1,0,1,1,1,1,1,1,1,1.9,m,White European,no,no,8,1-3 years,family member,Yes
+1,0,1,1,1,1,0,0,1,0,1,m,White European,yes,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,2.4,m,White European,yes,no,9,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,0,0,1.8,m,White European,no,yes,3,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,0,1,m,asian,no,no,1,1-3 years,Health care professional,No
+0,0,0,0,0,0,0,0,0,1,3,f,Others,no,yes,1,1-3 years,family member,No
+0,1,0,0,0,0,1,0,0,1,3,f,asian,no,no,3,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,0,2.5,f,White European,yes,yes,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,2.5,f,Latino,no,yes,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,m,mixed,no,no,0,1-3 years,family member,No
+0,0,0,1,1,1,0,0,0,0,1.6,f,mixed,no,no,3,1-3 years,family member,No
+0,1,1,1,1,0,1,0,1,1,1.9,m,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,m,middle eastern,no,yes,1,1-3 years,family member,No
+0,1,0,0,0,0,0,0,0,1,3,f,White European,yes,yes,2,1-3 years,family member,No
+0,1,0,0,0,0,0,0,0,1,3,f,White European,yes,yes,2,1-3 years,family member,No
+1,0,0,0,1,1,0,1,0,1,2.8,m,asian,no,yes,5,1-3 years,family member,Yes
+0,0,1,0,1,0,0,0,0,1,2.8,m,asian,no,yes,3,1-3 years,family member,No
+0,0,1,0,0,1,0,0,0,0,2.8,m,asian,no,yes,2,1-3 years,family member,No
+1,0,1,0,0,1,0,0,0,0,2.8,m,asian,no,yes,3,1-3 years,family member,No
+1,0,1,0,0,1,0,0,0,0,2.8,m,asian,no,yes,3,1-3 years,family member,No
+0,1,0,1,0,1,1,1,0,0,1,f,White European,no,no,5,1-3 years,family member,Yes
+0,0,0,1,0,0,0,0,0,0,2.5,m,south asian,yes,no,1,1-3 years,family member,No
+1,0,0,0,0,1,0,0,1,0,2.8,m,asian,no,yes,3,1-3 years,family member,No
+1,0,1,1,0,0,0,0,0,0,2.5,m,south asian,yes,no,3,1-3 years,family member,No
+1,0,1,1,1,1,1,1,1,1,2.9,m,asian,no,no,9,1-3 years,family member,Yes
+0,0,0,0,1,0,1,0,1,1,1,f,White European,yes,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,2.5,m,asian,yes,no,9,1-3 years,family member,Yes
+1,1,0,0,0,0,0,0,0,1,2.7,m,White European,no,yes,3,1-3 years,family member,No
+0,1,0,0,0,0,0,0,0,1,2.6,m,White European,yes,no,2,1-3 years,family member,No
+1,1,0,0,0,0,0,0,0,1,2.6,m,White European,yes,no,3,1-3 years,family member,No
+1,0,0,0,1,1,1,0,0,1,2,m,White European,no,yes,5,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,0,1,2.2,f,south asian,no,no,3,1-3 years,family member,No
+1,1,0,0,0,0,1,0,0,1,2.2,f,south asian,no,no,4,1-3 years,family member,Yes
+0,0,0,1,0,0,0,0,0,0,3,m,middle eastern,no,no,1,1-3 years,Health care professional,No
+1,0,0,1,0,1,0,0,0,0,3,m,middle eastern,no,no,3,1-3 years,Health care professional,No
+1,1,1,1,0,1,1,0,1,1,3,f,asian,yes,no,8,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,1,0,3,f,asian,yes,no,6,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,1,1,1.7,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,1,1.7,m,asian,no,no,8,1-3 years,family member,Yes
+0,1,1,0,1,0,1,0,0,1,2.9,m,middle eastern,no,yes,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,3,f,asian,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,1,1,2.5,f,black,no,no,9,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,0,1,2.5,f,black,no,no,7,1-3 years,family member,Yes
+1,0,0,0,0,0,1,1,0,1,2.8,m,White European,yes,yes,4,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,0,0,3,m,Latino,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,0,1,1.2,m,middle eastern,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,3,m,White European,no,yes,9,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,0,0,3,m,White European,no,no,5,1-3 years,family member,Yes
+0,1,0,1,0,1,0,0,0,0,1.2,m,middle eastern,yes,no,3,1-3 years,family member,No
+0,0,0,0,1,0,0,0,0,1,3,m,south asian,no,no,2,1-3 years,family member,No
+0,1,1,1,0,0,0,0,0,0,2.5,m,asian,no,no,3,1-3 years,family member,No
+1,1,0,0,1,1,1,1,1,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,1,0,0,1,1,1,1,1,1,3,f,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.3,f,White European,yes,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,1,1,2.1,m,Hispanic,no,no,4,1-3 years,family member,Yes
+0,0,0,1,0,0,0,1,0,1,2.9,m,middle eastern,no,no,3,1-3 years,family member,No
+0,0,0,0,0,1,0,0,1,1,1.1,f,middle eastern,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,0,1,1,2.1,f,White European,no,yes,9,1-3 years,family member,Yes
+0,1,0,1,1,1,1,1,0,1,1.8,m,black,no,no,7,1-3 years,family member,Yes
+0,1,1,1,1,1,1,1,0,1,1.9,m,black,no,no,8,1-3 years,family member,Yes
+1,1,1,1,0,0,1,0,1,0,3,f,White European,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.3,m,middle eastern,no,no,1,1-3 years,family member,No
+1,1,0,0,0,0,0,1,0,1,3,m,White European,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.8,m,middle eastern,yes,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,1.8,m,black,no,no,9,1-3 years,family member,Yes
+0,0,0,0,1,0,1,1,0,1,2.5,f,asian,no,yes,4,1-3 years,family member,Yes
+1,1,0,1,0,0,1,1,1,1,1.1,m,black,yes,yes,7,1-3 years,family member,Yes
+1,0,0,1,1,0,1,1,1,1,1.7,f,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,1.8,f,asian,no,no,9,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,1,0,2.8,m,asian,no,no,5,1-3 years,Health care professional,Yes
+1,0,0,0,0,1,1,0,1,1,2.8,m,asian,no,no,5,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,3,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.7,m,middle eastern,no,yes,10,1-3 years,family member,Yes
+0,1,0,1,1,0,0,0,1,0,3,m,asian,yes,no,4,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,0,1,3,m,asian,yes,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,1,f,White European,no,no,2,1-3 years,family member,No
+1,1,1,1,0,0,1,1,0,1,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.6,m,White European,yes,no,0,1-3 years,family member,No
+1,0,0,0,1,1,1,1,0,0,2.6,m,White European,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,1,1,1,0,0,2.6,m,White European,yes,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.2,f,middle eastern,no,no,10,1-3 years,family member,Yes
+0,1,1,1,1,1,0,1,1,0,1.6,f,middle eastern,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,1,0,1,1,0,1.6,f,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.6,f,middle eastern,no,no,1,1-3 years,family member,No
+1,1,1,0,1,1,0,0,1,0,2,m,White European,yes,no,6,1-3 years,family member,Yes
+0,1,1,1,1,0,1,1,1,1,2.3,m,south asian,yes,no,8,1-3 years,family member,Yes
+1,0,0,1,1,1,0,0,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,0,0,1,1,1,1,1,2.3,m,middle eastern,no,yes,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.5,m,White European,yes,no,10,1-3 years,family member,Yes
+0,0,0,0,1,1,0,0,0,0,2.2,m,asian,no,no,2,1-3 years,family member,No
+1,1,0,1,1,1,1,1,1,1,3,m,black,no,yes,9,1-3 years,Health care professional,Yes
+0,0,0,0,1,0,1,1,1,0,1.9,f,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,1,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,0,3,m,asian,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,2.6,m,White European,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,2.6,m,White European,no,no,9,1-3 years,family member,Yes
+1,0,1,1,1,0,1,1,1,1,2.9,m,White European,no,yes,8,1-3 years,family member,Yes
+0,1,0,0,0,0,0,1,0,0,3,m,middle eastern,no,no,2,1-3 years,family member,No
+1,1,0,0,1,1,1,0,1,1,1.9,m,White European,yes,no,7,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,0,0,2.2,m,White European,yes,yes,3,1-3 years,family member,No
+1,1,1,0,0,1,1,0,1,1,2.8,f,mixed,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,3,m,White European,yes,yes,9,1-3 years,family member,Yes
+1,0,1,1,0,1,0,0,1,0,2.5,f,middle eastern,no,no,5,1-3 years,family member,Yes
+1,0,1,1,0,1,0,0,0,0,2.5,m,middle eastern,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2,m,middle eastern,no,no,0,1-3 years,family member,No
+0,0,1,1,1,1,1,1,1,0,1.3,f,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,0,0,3,m,asian,yes,no,3,1-3 years,family member,No
+0,1,0,0,1,1,1,1,0,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,0,0,3,m,Latino,no,no,5,1-3 years,family member,Yes
+1,0,1,1,0,1,1,1,1,1,2.5,m,White European,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,mixed,no,no,0,1-3 years,family member,No
+1,1,0,1,0,0,1,0,0,1,2.4,m,black,no,no,5,1-3 years,family member,Yes
+1,0,1,0,0,1,0,0,0,0,3,m,asian,no,yes,3,1-3 years,family member,No
+1,0,1,0,0,1,0,0,0,0,3,m,asian,no,yes,3,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,1,2.7,m,asian,yes,no,8,1-3 years,family member,Yes
+1,1,0,0,0,1,1,0,1,0,2.7,m,asian,no,no,5,1-3 years,family member,Yes
+0,1,0,1,1,1,1,1,1,0,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+0,1,0,1,1,1,0,1,1,1,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.1,m,White European,yes,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,1,m,White European,yes,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.2,m,White European,no,no,9,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,1,1.2,f,White European,yes,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,3,f,White European,yes,no,9,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,1,1,2.3,m,White European,no,no,8,1-3 years,family member,Yes
+1,1,0,0,0,0,0,0,0,1,2,f,Hispanic,no,no,3,1-3 years,family member,No
+0,0,0,0,1,1,1,0,0,1,2.6,m,Hispanic,yes,no,4,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,1,1.9,m,south asian,no,yes,7,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,1,0,3,m,White European,yes,no,4,1-3 years,family member,Yes
+1,1,0,0,0,1,1,0,0,1,2.2,m,White European,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,0,3,f,asian,no,no,1,1-3 years,family member,No
+1,0,0,1,1,0,1,0,1,1,1.7,m,middle eastern,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,1,1,0,1,0,1.7,m,middle eastern,no,no,4,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,1,0,2.6,f,asian,yes,no,6,1-3 years,family member,Yes
+0,1,0,0,1,1,1,0,0,1,1,f,Hispanic,yes,yes,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.7,m,White European,yes,no,0,1-3 years,family member,No
+1,0,0,0,1,0,0,0,0,1,2.8,m,White European,no,no,3,1-3 years,family member,No
+1,1,1,1,0,1,1,1,1,0,3,m,middle eastern,yes,yes,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,1.4,m,Hispanic,yes,yes,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,0,1,2,f,Hispanic,no,yes,8,1-3 years,family member,Yes
+1,1,0,1,1,0,1,1,1,1,1.5,f,White European,no,no,8,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,2.2,m,Others,no,yes,9,1-3 years,family member,Yes
+1,1,0,1,1,0,1,1,1,0,1.9,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,0,1.8,m,asian,no,no,8,1-3 years,family member,Yes
+1,0,1,1,0,1,1,1,1,0,3,m,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,3,m,asian,no,no,1,1-3 years,family member,No
+0,0,0,0,1,1,1,0,1,1,2.8,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.8,m,asian,yes,no,10,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,0,0,3,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,1,0,1,0,0,0,1,0,3,m,south asian,yes,yes,5,1-3 years,Health care professional,Yes
+0,0,0,0,1,1,1,1,1,1,3,m,White European,no,no,6,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,1,0,2.7,f,asian,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.2,m,asian,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,asian,no,no,0,1-3 years,family member,No
+0,0,1,0,1,1,1,1,1,0,2.2,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,0,1,0,1,1,1,1,2.2,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,1,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+0,1,0,1,0,1,1,1,1,1,1.3,m,middle eastern,yes,yes,7,1-3 years,family member,Yes
+1,1,0,1,0,0,0,1,0,1,2.3,m,White European,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2,m,asian,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1.8,m,asian,no,yes,0,1-3 years,family member,No
+0,1,0,0,1,1,1,0,1,0,2.5,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1,f,asian,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.7,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,0,0,1,0,1,0,0,0,2.6,m,White European,yes,no,4,1-3 years,family member,Yes
+1,1,0,0,0,1,1,0,1,0,1.9,m,White European,yes,no,5,1-3 years,family member,Yes
+1,0,0,1,0,1,0,0,0,0,2.4,f,middle eastern,no,no,3,1-3 years,family member,No
+0,1,1,1,1,1,0,1,1,0,1,m,black,yes,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.1,f,Hispanic,no,no,1,1-3 years,family member,No
+1,0,1,1,1,0,1,0,0,0,1.9,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,0,0,0,0,1,3,f,White European,yes,no,6,1-3 years,family member,Yes
+0,1,1,1,1,0,1,0,1,0,2.2,m,asian,no,no,6,1-3 years,family member,Yes
+1,0,0,0,0,1,1,1,0,1,3,f,White European,yes,no,5,1-3 years,family member,Yes
+0,1,1,1,0,0,0,1,0,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,1,0,1,0,0,0,0,0,0,3,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,1,0,0,0,1,0,0,3,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,1,0,0,0,0,0,0,3,m,asian,no,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2.8,m,White European,no,yes,10,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,3,m,Latino,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,0,0,1,1,0,1,1,1,3,f,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,0,1,1,1,1,1,m,asian,no,no,9,1-3 years,family member,Yes
+0,1,0,0,1,1,1,1,1,0,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+1,1,0,0,1,0,1,1,0,0,3,m,black,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,1,0,1,1,1,0,3,m,south asian,no,no,6,1-3 years,family member,Yes
+0,1,0,0,0,1,1,0,1,0,3,m,asian,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.1,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.1,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.1,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,m,asian,no,no,0,1-3 years,family member,No
+1,0,1,1,1,1,0,1,0,0,2.8,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,0,0,3,m,asian,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,0,0,2,m,black,yes,yes,8,1-3 years,Health care professional,Yes
+1,1,0,0,1,1,1,0,1,1,1.2,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,1,0,1.2,m,asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,White European,no,no,10,1-3 years,Health care professional,Yes
+0,0,0,0,0,0,0,0,0,0,1.6,f,asian,no,yes,0,1-3 years,family member,No
+0,0,0,1,1,1,1,0,0,0,2.8,m,black,yes,no,4,1-3 years,family member,Yes
+1,1,1,0,1,1,1,1,1,0,3,m,asian,no,no,8,1-3 years,family member,Yes
+1,0,1,1,1,0,0,0,1,0,2.7,f,Hispanic,no,yes,5,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,0,1,3,m,asian,no,no,7,1-3 years,Health care professional,Yes
+1,1,1,1,1,1,1,1,0,1,3,m,Latino,yes,no,9,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,0,0,3,m,asian,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,0,1,1,1,3,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,0,1,1,1,3,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,1,1,3,f,asian,yes,no,7,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,0,1,2.2,f,south asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,south asian,no,no,10,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,0,1.4,f,White European,no,no,7,1-3 years,family member,Yes
+0,0,1,1,1,0,1,0,1,0,2.9,m,middle eastern,yes,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,0,0,1,0,2.5,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,2.8,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,1,1,0,1,0,0,1,2.5,m,asian,no,no,4,1-3 years,Health care professional,Yes
+1,1,1,1,0,1,1,1,0,1,3,f,middle eastern,no,no,8,1-3 years,family member,Yes
+1,0,0,1,1,1,1,0,1,0,2.5,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,1,1,2.5,m,asian,no,no,4,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,0,1,2.5,f,south asian,no,no,3,1-3 years,family member,No
+1,0,0,0,0,1,1,0,0,1,2.5,m,Hispanic,no,no,4,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,1,0,2,m,black,yes,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,White European,no,no,0,1-3 years,family member,No
+0,0,0,0,0,1,0,0,0,0,3,m,White European,no,no,1,1-3 years,family member,No
+0,0,0,0,0,1,1,0,0,1,2.3,f,middle eastern,no,no,3,1-3 years,family member,No
+0,0,0,1,0,1,1,0,0,1,2.3,f,middle eastern,no,no,4,1-3 years,family member,Yes
+1,1,0,0,1,1,0,1,1,1,2.2,m,White European,yes,yes,7,1-3 years,family member,Yes
+0,0,1,1,0,0,0,1,0,1,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,1,0,1,0,0,1,3,m,asian,yes,no,3,1-3 years,family member,No
+1,0,0,0,0,1,0,1,0,0,2.1,m,White European,no,no,3,1-3 years,family member,No
+1,1,1,1,1,0,1,1,1,1,2.7,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,0,0,0,0,1,1,0,1,3,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,1,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,1,1,1,0,1,3,m,Latino,no,no,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,3,m,White European,no,yes,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,White European,no,yes,0,1-3 years,family member,No
+0,1,1,0,0,1,0,0,1,1,1.7,m,black,no,yes,5,1-3 years,family member,Yes
+1,0,0,0,1,1,0,1,0,1,2.2,m,White European,no,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,0,1,2.7,m,White European,yes,no,4,1-3 years,family member,Yes
+1,0,0,1,1,1,1,0,1,1,2,f,south asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,2.9,m,White European,no,yes,9,1-3 years,family member,Yes
+0,1,0,0,0,0,0,0,0,1,1.1,m,middle eastern,no,no,2,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,0,2,f,south asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,0,1,1,1,2,f,south asian,no,no,9,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.5,m,White European,no,no,0,1-3 years,family member,No
+1,0,1,0,1,1,0,1,1,0,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,0,1,1,0,1,2.8,m,White European,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,0,3,m,south asian,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.2,m,White European,no,no,9,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,0,0,2.4,m,Others,no,no,4,1-3 years,family member,Yes
+1,1,1,0,0,1,1,0,0,1,3,m,White European,no,no,6,1-3 years,family member,Yes
+0,1,0,0,0,0,0,0,0,1,2.8,m,asian,no,no,2,1-3 years,family member,No
+1,1,0,0,0,0,0,1,0,1,2.8,m,asian,no,no,4,1-3 years,Health care professional,Yes
+0,0,0,0,0,0,0,0,0,1,2.2,m,White European,no,no,1,1-3 years,family member,No
+0,1,1,1,1,1,1,0,1,1,1,m,asian,no,yes,8,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,0,0,2.5,f,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,1,0,2.8,f,asian,no,no,3,1-3 years,family member,No
+1,1,0,0,1,1,1,1,1,1,3,m,Others,yes,no,8,1-3 years,family member,Yes
+1,0,0,1,1,1,0,0,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,1,1,1,1,0,2.5,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,1,0,1,0,0,1,0,0,3,m,asian,no,no,3,1-3 years,family member,No
+0,0,0,1,1,0,0,1,0,0,3,m,asian,no,no,3,1-3 years,family member,No
+1,1,0,1,0,0,1,1,1,1,1.2,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,0,1.5,f,White European,no,no,7,1-3 years,family member,Yes
+1,0,0,0,0,1,1,1,0,1,3,m,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,1,1,1,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,1,1,0,0,1,0,1,0,2.2,m,south asian,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,1,m,south asian,yes,no,2,1-3 years,family member,No
+1,1,0,1,1,1,1,1,1,1,3,m,White European,no,no,9,1-3 years,family member,Yes
+0,1,0,0,0,0,1,0,0,0,2.9,f,asian,yes,no,2,1-3 years,family member,No
+1,1,1,1,0,1,1,1,1,1,3,m,middle eastern,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,0,1,1,1,3,m,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,0,0,0,1,1,1,1,3,f,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,0,1,3,m,asian,no,no,3,1-3 years,family member,No
+1,1,0,0,0,1,0,0,1,0,2.5,m,south asian,yes,no,4,1-3 years,family member,Yes
+0,0,1,1,0,0,1,1,0,1,2.1,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,0,1,1.2,f,White European,no,no,6,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,1,1,1.2,f,White European,no,no,7,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,1,1,2.2,f,White European,no,no,7,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,1,1,3,f,Others,yes,no,8,1-3 years,family member,Yes
+1,0,0,0,1,0,1,1,1,1,2.9,f,asian,no,yes,6,1-3 years,family member,Yes
+1,1,0,1,1,0,1,0,0,0,2.3,m,middle eastern,no,yes,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,0,2.3,m,middle eastern,no,yes,6,1-3 years,family member,Yes
+1,0,0,0,1,0,1,0,0,0,3,m,White European,no,no,3,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,m,middle eastern,no,yes,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1,m,Pacifica,no,no,10,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,0,1,3,m,White European,yes,no,6,1-3 years,family member,Yes
+1,0,1,1,1,1,0,1,1,0,1.6,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,1,2,f,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,0,0,2.5,f,asian,yes,no,4,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,1,1,2.7,m,asian,yes,yes,7,1-3 years,family member,Yes
+1,0,0,1,1,1,1,1,1,1,2.9,m,asian,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.9,m,asian,no,no,0,1-3 years,family member,No
+1,0,1,1,1,1,0,1,1,1,2.4,m,middle eastern,no,no,8,1-3 years,family member,Yes
+1,0,1,0,0,1,0,1,0,0,3,m,asian,no,yes,4,1-3 years,family member,Yes
+1,0,0,0,0,1,0,0,0,0,3,m,asian,no,yes,2,1-3 years,family member,No
+1,0,0,0,0,1,0,0,0,0,3,m,asian,no,yes,2,1-3 years,family member,No
+0,0,0,1,0,0,1,0,1,1,1.2,f,middle eastern,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,1,0,1.2,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,1,0,0,0,0,1,0,0,0,3,m,middle eastern,no,yes,2,1-3 years,family member,No
+1,1,1,1,1,1,1,0,1,0,1.6,m,asian,no,no,8,1-3 years,family member,Yes
+0,0,1,0,0,1,1,1,1,1,2,m,Hispanic,no,yes,6,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,1,3,m,Hispanic,no,yes,7,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,1,1,1.1,m,White European,yes,yes,7,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,2.1,m,asian,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.1,m,White European,yes,yes,10,1-3 years,family member,Yes
+1,1,0,1,1,0,1,0,0,1,3,m,White European,no,no,6,1-3 years,Others,Yes
+1,1,0,1,0,0,1,0,0,0,3,m,White European,no,no,4,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,1,1,3,f,White European,yes,no,9,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,0,3,m,asian,no,yes,1,1-3 years,family member,No
+1,0,1,0,0,1,0,0,0,0,3,m,asian,no,yes,3,1-3 years,family member,No
+1,0,1,1,0,0,0,0,0,0,3,m,asian,no,yes,3,1-3 years,family member,No
+0,0,1,1,0,1,0,0,1,0,1.4,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,0,0,1.4,m,asian,no,no,2,1-3 years,family member,No
+1,0,1,1,1,1,1,1,1,1,1.8,f,White European,no,no,9,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,0,0,1.7,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,0,1,3,m,White European,yes,no,4,1-3 years,Health care professional,Yes
+0,0,0,0,0,0,0,0,0,0,1.2,f,middle eastern,yes,no,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,3,f,south asian,yes,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,White European,no,no,10,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,1,1,2.5,f,asian,yes,no,7,1-3 years,family member,Yes
+1,0,0,0,0,1,1,1,1,1,2.5,f,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,2.3,m,middle eastern,no,no,9,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,0,2.2,m,Hispanic,no,yes,7,1-3 years,family member,Yes
+1,1,1,1,1,1,0,0,1,1,2.3,m,Pacifica,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,3,f,Others,no,no,9,1-3 years,Self,Yes
+1,0,0,0,1,1,1,1,1,0,3,m,Hispanic,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,1,f,Hispanic,no,no,2,1-3 years,Health care professional,No
+1,1,1,1,1,1,1,1,1,1,2.3,m,black,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,black,no,no,10,1-3 years,family member,Yes
+1,0,0,1,1,0,1,0,1,1,2.3,m,White European,yes,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,0,2.3,m,White European,yes,no,1,1-3 years,family member,No
+0,1,1,1,1,1,0,1,1,0,2,f,asian,yes,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.8,m,Native Indian,yes,no,10,1-3 years,family member,Yes
+0,0,0,1,0,1,1,0,0,0,1,f,White European,no,no,3,1-3 years,family member,No
+1,1,1,1,1,0,1,1,1,0,2.7,m,black,no,no,8,1-3 years,family member,Yes
+1,0,0,1,1,1,0,0,0,1,2.4,m,White European,yes,no,5,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,1,0,2.2,m,White European,yes,yes,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.1,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,0,0,1,0,0,0,0,1,3,m,White European,yes,no,4,1-3 years,family member,Yes
+0,1,1,1,1,1,1,0,1,1,1,m,White European,no,yes,8,1-3 years,family member,Yes
+1,1,0,1,1,1,0,1,1,0,3,m,White European,no,no,7,1-3 years,family member,Yes
+1,0,1,0,1,0,0,0,0,0,3,m,White European,no,no,3,1-3 years,family member,No
+0,1,1,0,0,0,0,1,0,1,3,m,south asian,no,no,4,1-3 years,family member,Yes
+0,1,0,1,0,1,0,0,1,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,1,0,1,0,1,0,0,1,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,1,0,0,0,0,1,2.9,m,asian,no,no,2,1-3 years,family member,No
+0,0,0,0,1,1,1,1,0,1,2.5,f,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,1,1,2.9,m,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,2.6,f,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,1,1,f,south asian,no,no,2,1-3 years,family member,No
+1,0,0,0,1,1,1,0,0,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,black,no,no,10,1-3 years,family member,Yes
+1,0,1,0,0,0,0,0,0,0,3,m,asian,no,yes,2,1-3 years,family member,No
+1,0,1,0,0,0,0,0,0,0,3,m,asian,no,yes,2,1-3 years,family member,No
+1,1,0,0,0,1,1,0,0,1,3,f,White European,no,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.2,f,Latino,no,no,10,1-3 years,family member,Yes
+1,1,1,0,1,1,1,1,0,1,1.8,m,asian,no,no,8,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,0,1,2,m,asian,yes,no,4,1-3 years,family member,Yes
+0,0,1,1,1,0,0,1,1,0,1.6,m,middle eastern,no,no,5,1-3 years,family member,Yes
+1,1,1,1,0,0,1,1,1,1,2,m,black,yes,no,8,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,1,1.8,m,White European,yes,yes,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.7,f,White European,no,no,10,1-3 years,family member,Yes
+0,0,0,1,1,1,0,1,1,0,2.5,m,middle eastern,no,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,1,1,1.1,f,asian,no,no,5,1-3 years,family member,Yes
+1,1,1,0,1,1,1,1,1,0,2.6,f,asian,no,no,8,1-3 years,family member,Yes
+1,1,1,0,1,1,1,1,0,0,2.6,f,asian,no,no,7,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,0,1.4,m,asian,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,1,1-3 years,family member,No
+1,1,1,1,1,0,1,1,1,1,1,f,middle eastern,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,1,0,1,0,1,1.1,f,middle eastern,yes,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,1.1,m,Hispanic,yes,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.1,m,Hispanic,yes,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,3,m,Hispanic,no,no,1,1-3 years,family member,No
+1,0,0,0,0,0,0,0,0,1,3,m,Hispanic,no,no,2,1-3 years,family member,No
+1,1,0,1,1,1,0,0,0,0,2.8,m,Others,no,no,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,1,2.8,m,Others,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,0,2.8,f,White European,no,yes,1,1-3 years,family member,No
+1,1,0,0,0,0,1,0,0,1,3,m,Hispanic,no,no,4,1-3 years,family member,Yes
+1,1,0,0,1,0,1,0,0,1,2.1,m,middle eastern,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,0,1,2.1,m,middle eastern,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2,f,black,no,no,10,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,0,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,3,f,White European,no,no,1,1-3 years,family member,No
+0,0,0,1,1,1,1,1,1,1,2.9,m,asian,no,yes,7,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,1,1,2.9,m,asian,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.6,m,White European,yes,no,10,1-3 years,family member,Yes
+0,1,1,1,0,0,1,0,1,0,1,f,middle eastern,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,0,1,0,1,0,1,3,m,White European,no,yes,5,1-3 years,family member,Yes
+0,0,1,0,0,1,0,0,0,1,1,f,south asian,no,no,3,1-3 years,family member,No
+1,0,0,0,1,1,1,0,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,0,1,3,m,White European,yes,yes,8,1-3 years,family member,Yes
+0,1,0,1,1,0,1,0,0,1,3,m,White European,yes,yes,5,1-3 years,family member,Yes
+1,0,1,1,1,1,0,1,1,1,2.8,m,White European,yes,no,8,1-3 years,family member,Yes
+1,1,0,1,0,0,1,0,1,1,1.8,m,White European,no,yes,6,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,1,1.8,m,White European,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,1,1,0,0,0,3,f,White European,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2.6,m,White European,yes,yes,10,1-3 years,family member,Yes
+1,0,1,1,0,1,1,0,1,1,2.4,f,White European,no,no,7,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,1,1,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,1,1,1,1,0,1,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,3,f,black,no,no,1,1-3 years,family member,No
+1,0,0,0,0,0,0,1,0,0,3,f,black,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,3,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,1,0,0,1,1,0,1,1,1.9,m,black,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,1,0,0,1,0,1,3,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,f,White European,yes,no,10,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,1,2.9,f,asian,no,no,8,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,1,3,m,Hispanic,no,no,2,1-3 years,family member,No
+1,0,0,0,0,0,1,0,0,1,1.3,m,White European,no,no,3,1-3 years,family member,No
+0,1,0,0,0,0,0,1,0,0,3,m,White European,yes,no,2,1-3 years,family member,No
+0,0,1,1,0,1,0,1,0,0,2.7,f,White European,yes,no,4,1-3 years,family member,Yes
+0,1,1,1,1,0,1,1,0,1,3,f,White European,yes,yes,7,1-3 years,family member,Yes
+0,0,0,0,1,1,0,0,1,1,2.9,m,asian,yes,no,4,1-3 years,family member,Yes
+1,0,1,0,1,1,0,0,1,0,2,m,White European,no,no,5,1-3 years,family member,Yes
+1,0,1,1,1,1,0,0,1,0,2,m,White European,no,no,6,1-3 years,family member,Yes
+1,0,1,0,1,1,0,0,1,0,2,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,2.5,f,White European,no,no,8,1-3 years,family member,Yes
+0,0,1,1,0,1,1,0,1,1,2.2,m,White European,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1,m,Others,yes,yes,10,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,0,1,2.3,m,middle eastern,yes,no,3,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,2.6,m,Pacifica,no,no,1,1-3 years,family member,No
+0,0,1,1,1,1,1,1,1,1,3,m,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,0,1,1.9,m,asian,yes,no,5,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,1,0,3,m,asian,yes,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,1,2.8,f,White European,no,yes,8,1-3 years,family member,Yes
+0,0,1,1,0,1,0,1,1,1,3,m,Hispanic,no,no,6,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,0,1,3,m,Others,no,no,6,1-3 years,family member,Yes
+1,0,0,1,1,1,1,0,1,1,3,m,White European,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,1,1,3,m,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,0,1,0,1,1,1,3,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,3,f,Latino,no,no,2,1-3 years,family member,No
+0,1,1,1,1,1,1,1,1,0,3,m,black,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,3,f,black,no,no,1,1-3 years,family member,No
+0,0,0,0,0,1,0,0,0,1,3,m,White European,yes,yes,2,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,1,3,m,White European,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,3,m,Hispanic,no,no,9,1-3 years,family member,Yes
+1,0,1,0,1,1,1,0,0,1,2.2,m,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,3,m,White European,no,yes,9,1-3 years,family member,Yes
+0,0,0,0,1,0,1,1,0,0,3,m,Hispanic,no,no,3,1-3 years,family member,No
+0,0,0,1,0,0,1,1,0,0,3,m,Hispanic,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2.2,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,asian,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,asian,no,no,10,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,1,0,3,m,asian,no,no,3,1-3 years,family member,No
+0,1,0,1,0,0,0,0,1,1,3,m,black,yes,yes,4,1-3 years,family member,Yes
+0,1,0,1,0,0,0,0,1,1,3,m,black,yes,yes,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,black,no,yes,10,1-3 years,family member,Yes
+0,1,0,0,1,1,1,1,1,0,2.5,m,White European,no,no,6,1-3 years,family member,Yes
+0,1,0,0,0,0,1,1,0,1,2.2,m,mixed,no,no,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,0,1,2.1,f,Pacifica,yes,no,8,1-3 years,family member,Yes
+1,1,0,1,1,1,0,1,1,0,1.7,f,south asian,no,no,7,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,0,0,1.7,m,asian,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,1,0,1.7,f,asian,no,no,5,1-3 years,Health care professional,Yes
+1,1,0,1,1,1,1,1,1,1,2.3,m,asian,no,no,9,1-3 years,family member,Yes
+1,0,0,1,1,1,1,1,1,1,2.3,m,asian,no,no,8,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,0,2.3,m,asian,no,no,8,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,2.3,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,asian,no,no,10,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,3,m,White European,yes,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.4,f,Latino,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,m,Latino,no,no,10,1-3 years,Others,Yes
+1,1,0,0,1,1,1,0,1,1,2.2,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.8,f,White European,no,no,10,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,0,1,1.8,f,White European,yes,no,3,1-3 years,family member,No
+1,0,0,0,0,1,1,0,0,1,1.8,m,Hispanic,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,0,1,3,f,asian,no,no,3,1-3 years,family member,No
+0,0,0,1,0,0,1,1,0,1,3,f,asian,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,m,asian,no,no,10,1-3 years,family member,Yes
+0,0,0,1,1,1,1,0,0,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,1,1,2.8,m,Others,yes,no,5,1-3 years,family member,Yes
+1,0,0,1,1,0,0,0,0,1,2,m,asian,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,0,1,2.1,m,White European,yes,yes,7,1-3 years,family member,Yes
+1,0,1,0,1,1,1,0,1,0,2.1,m,White European,no,yes,6,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,1,2.5,f,middle eastern,no,no,2,1-3 years,family member,No
+0,0,0,0,0,1,0,1,0,0,3,f,asian,no,no,2,1-3 years,family member,No
+0,0,0,0,1,0,0,1,0,1,2.7,m,black,yes,no,3,1-3 years,family member,No
+0,0,1,1,0,1,1,1,1,0,2.8,m,White European,yes,no,6,1-3 years,family member,Yes
+0,0,0,0,1,0,0,1,1,1,3,m,middle eastern,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,m,middle eastern,no,no,1,1-3 years,family member,No
+1,0,1,1,0,1,1,0,1,0,2,f,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,1,1,0,0,0,2.1,f,asian,no,no,3,1-3 years,family member,No
+0,0,1,1,1,1,0,0,1,0,2,f,asian,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,0,0,1,0,2,f,asian,no,no,5,1-3 years,family member,Yes
+0,1,0,0,1,1,1,1,0,1,2.4,m,White European,yes,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,south asian,no,no,10,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,0,1,2,m,asian,no,no,3,1-3 years,family member,No
+0,0,1,1,0,0,0,1,0,1,2,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,1,1,0,1,0,0,0,1,2,m,asian,no,no,4,1-3 years,family member,Yes
+1,0,1,1,1,0,1,0,1,0,1.3,f,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1,m,White European,yes,yes,1,1-3 years,family member,No
+1,0,1,1,1,1,1,0,0,0,1.8,f,White European,no,yes,6,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,0,1,1.8,f,White European,no,yes,6,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,0,1,2.7,f,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,0,1.5,m,middle eastern,yes,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,m,White European,no,no,10,1-3 years,family member,Yes
+0,0,1,1,0,1,1,1,1,1,2.8,m,White European,yes,no,7,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,1,2,f,asian,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,1.8,m,asian,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,3,m,asian,no,no,1,1-3 years,family member,No
+1,0,0,1,1,1,1,0,0,0,3,f,White European,no,no,5,1-3 years,family member,Yes
+1,0,0,0,1,0,1,1,1,0,1.2,m,asian,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,2.5,m,asian,no,no,2,1-3 years,family member,No
+1,1,0,0,1,1,1,1,1,1,3,f,Others,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,Others,yes,no,0,1-3 years,family member,No
+1,1,1,1,1,0,1,1,0,0,2,m,Others,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,0,1.2,m,White European,no,no,8,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,1,0,1.2,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,0,1,2.2,f,middle eastern,no,no,4,1-3 years,family member,Yes
+1,0,0,1,1,0,1,0,1,0,3,m,south asian,no,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,0,0,2,m,Others,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,2.8,f,asian,no,no,9,1-3 years,family member,Yes
+1,0,1,0,1,1,1,1,1,1,2.8,f,asian,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,2,m,asian,yes,no,1,1-3 years,family member,No
+1,1,0,1,0,1,1,1,0,1,2.7,f,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1.1,f,White European,no,yes,0,1-3 years,family member,No
+0,0,1,1,1,1,1,0,1,0,2.6,f,White European,no,no,6,1-3 years,family member,Yes
+1,0,1,1,0,1,0,1,0,0,1.4,m,asian,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,0,1,1,1,1,1.6,f,White European,yes,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.6,f,White European,yes,no,9,1-3 years,family member,Yes
+0,1,0,0,1,1,0,1,0,1,2.4,m,White European,no,no,5,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,1,1,3,m,White European,no,no,7,1-3 years,Health care professional,Yes
+1,1,0,1,1,1,1,1,1,1,1.2,m,White European,yes,no,9,1-3 years,family member,Yes
+1,0,1,1,1,0,1,1,1,1,1.3,m,black,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.2,m,White European,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,0,2.5,m,White European,no,no,1,1-3 years,family member,No
+1,0,1,0,1,0,1,1,0,1,2,m,White European,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,3,m,asian,yes,yes,9,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,1,0,2.7,m,White European,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,1,1,0,0,0,1.8,f,White European,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,1,0,1,1,3,m,south asian,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,0,1,2.2,m,Others,yes,yes,9,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,1,2.8,m,White European,no,no,8,1-3 years,family member,Yes
+0,1,0,0,0,0,0,0,0,1,3,m,White European,no,no,2,1-3 years,family member,No
+0,1,0,0,1,0,0,0,0,1,2.4,m,White European,no,no,3,1-3 years,family member,No
+1,0,0,1,0,1,1,1,0,1,1.9,m,White European,yes,no,6,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,0,1,2.8,m,White European,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,1,1,1.3,f,White European,yes,no,7,1-3 years,family member,Yes
+0,0,1,0,0,0,0,0,0,0,3,f,White European,no,yes,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,1,1,2.2,f,White European,yes,no,2,1-3 years,family member,No
+0,1,1,0,0,0,0,0,0,1,2.9,f,black,yes,no,3,1-3 years,family member,No
+1,0,1,1,1,1,1,0,1,0,3,m,White European,yes,yes,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1,m,asian,no,no,0,1-3 years,family member,No
+0,0,0,0,0,1,0,1,0,0,3,f,middle eastern,no,no,2,1-3 years,family member,No
+1,0,0,1,0,0,1,0,1,1,2,m,White European,yes,yes,5,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,0,2.9,m,middle eastern,no,no,7,1-3 years,family member,Yes
+1,0,1,1,1,0,1,1,1,1,1.2,m,White European,yes,no,8,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,1,0,1.2,m,White European,yes,no,6,1-3 years,family member,Yes
+1,0,0,1,0,0,1,0,0,0,2.2,m,south asian,no,no,3,1-3 years,family member,No
+1,1,1,1,1,0,1,0,1,1,1,f,White European,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.8,m,White European,yes,no,10,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,1,0,3,m,Others,no,yes,4,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,0,3,m,White European,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,1.2,m,asian,no,no,1,1-3 years,family member,No
+0,1,0,1,0,1,1,0,0,0,2.5,m,asian,yes,no,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,1,1,3,m,White European,no,no,8,1-3 years,family member,Yes
+1,1,0,0,0,0,0,0,0,0,1.4,m,asian,no,no,2,1-3 years,family member,No
+1,1,0,1,0,0,0,0,0,0,1.4,m,middle eastern,no,no,3,1-3 years,family member,No
+1,1,0,0,0,0,0,0,0,0,1.4,m,middle eastern,no,no,2,1-3 years,family member,No
+1,1,0,0,1,1,0,1,1,1,2.4,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.2,m,Pacifica,no,no,10,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,0,1,1.9,m,White European,yes,yes,6,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,1.9,m,White European,yes,yes,2,1-3 years,family member,No
+0,0,0,0,0,0,0,1,0,1,1.9,m,White European,yes,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,1,0,1,3,f,White European,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.2,m,south asian,no,no,10,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,0,2.1,m,White European,no,no,8,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,1,1,2.8,f,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,1,0,0,0,1,1,1,f,White European,no,no,3,1-3 years,family member,No
+0,0,1,1,1,1,1,0,1,1,1,f,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,0,1,2.3,m,White European,no,no,6,1-3 years,family member,Yes
+1,1,0,1,1,0,1,1,1,0,3,m,middle eastern,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,2.6,m,asian,no,yes,2,1-3 years,family member,No
+1,1,1,1,1,1,0,1,1,1,2.5,m,asian,no,no,9,1-3 years,family member,Yes
+1,0,0,0,1,1,0,0,1,1,2.5,m,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,1,3,m,Hispanic,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,3,f,middle eastern,yes,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,1,1,2.5,m,asian,no,no,2,1-3 years,family member,No
+1,1,1,0,1,1,1,0,0,1,2.4,m,Pacifica,no,yes,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.8,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,1,0,1,1,1,1,0,1,2.8,f,asian,no,no,6,1-3 years,family member,Yes
+0,1,1,1,1,1,1,1,0,1,3,f,White European,no,no,8,1-3 years,Self,Yes
+1,1,1,1,1,1,1,0,1,1,2.6,m,White European,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,0,1,3,f,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,1.8,m,middle eastern,no,no,1,1-3 years,Health care professional,No
+1,0,1,1,1,1,1,0,1,1,3,m,middle eastern,no,no,8,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,1,m,Latino,yes,no,9,1-3 years,family member,Yes
+1,0,0,0,1,1,1,0,1,0,2.2,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,1,0,3,f,Latino,no,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,0,3,m,asian,yes,no,8,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,1,0,2.3,m,south asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,middle eastern,yes,no,0,1-3 years,family member,No
+1,1,1,1,1,1,0,1,0,1,3,f,White European,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1,m,White European,no,yes,9,1-3 years,Health care professional,Yes
+1,0,0,0,0,0,1,1,0,0,3,m,White European,no,no,3,1-3 years,family member,No
+0,0,1,1,1,1,1,0,0,0,2.6,m,White European,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,0,0,2.6,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,0,1,1,0,1,1.8,m,south asian,no,no,8,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,0,1,3,m,south asian,no,no,3,1-3 years,family member,No
+1,1,0,0,1,0,1,1,1,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.2,f,middle eastern,no,yes,10,1-3 years,family member,Yes
+0,0,1,0,1,1,1,1,0,1,2.8,f,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+1,0,1,0,0,0,1,1,1,0,2.2,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,2.3,m,White European,no,no,9,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,0,1.2,f,asian,no,yes,1,1-3 years,family member,No
+0,0,1,1,1,0,1,0,0,0,2.6,m,White European,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1.4,f,asian,no,yes,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,2.3,m,Others,no,no,9,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,0,3,f,asian,no,no,8,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,0,1,2.2,f,Others,no,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,0,1.2,m,White European,no,no,7,1-3 years,family member,Yes
+0,1,1,1,0,1,1,1,1,0,1,m,Hispanic,no,no,7,1-3 years,family member,Yes
+0,1,0,0,0,0,1,1,0,1,1.3,m,White European,yes,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,2.3,m,White European,no,no,9,1-3 years,family member,Yes
+0,0,1,0,1,1,1,1,0,1,2.8,f,asian,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2,m,asian,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,0,1,1.8,m,middle eastern,yes,yes,7,1-3 years,family member,Yes
+0,0,1,1,0,0,1,0,0,1,3,f,asian,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.4,m,White European,no,no,10,1-3 years,family member,Yes
+0,0,0,0,0,0,1,1,0,1,3,m,White European,no,no,3,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,1,1.8,m,White European,yes,yes,2,1-3 years,family member,No
+0,0,1,1,1,1,1,1,1,0,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,0,2.8,m,White European,yes,yes,1,1-3 years,family member,No
+0,0,0,1,1,0,1,1,1,0,3,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,1,0,1,0,1,0,0,0,2.9,m,Others,no,no,5,1-3 years,family member,Yes
+1,0,0,0,0,0,1,1,0,1,2.9,f,White European,yes,no,4,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,0,1,2.6,f,White European,no,yes,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,1,1,3,m,asian,yes,no,8,1-3 years,family member,Yes
+1,0,0,0,0,1,1,0,0,0,3,m,asian,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,0,1,1,1.2,m,mixed,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,3,f,White European,no,no,8,1-3 years,family member,Yes
+0,0,1,0,0,1,1,1,1,1,3,f,middle eastern,no,yes,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,3,f,middle eastern,yes,no,10,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,0,1,2.2,m,White European,no,no,3,1-3 years,family member,No
+0,0,0,0,1,0,1,0,1,1,3,m,Others,yes,no,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,2,f,south asian,no,no,9,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,0,2,f,south asian,no,no,6,1-3 years,family member,Yes
+1,0,0,1,0,1,1,0,0,1,1.9,f,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,1,0,2.8,f,asian,no,no,6,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,1.1,m,black,yes,yes,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,black,no,yes,0,1-3 years,family member,No
+1,1,0,0,1,1,1,0,1,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,1,1,3,m,White European,no,yes,7,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,1,1,3,m,White European,no,yes,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,1.3,m,middle eastern,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,2,f,White European,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,3,m,White European,no,yes,2,1-3 years,family member,No
+1,1,1,1,0,1,0,0,0,1,1.7,m,White European,yes,yes,6,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,0,1,2.3,m,middle eastern,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,2.4,m,asian,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.1,m,asian,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,1,0,1,0,2,f,middle eastern,no,no,2,1-3 years,family member,No
+1,0,0,0,1,0,1,1,1,0,2,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,0,0,3,m,middle eastern,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,1.6,m,middle eastern,no,no,9,1-3 years,Health care professional,Yes
+1,0,0,0,1,1,1,1,1,1,2.8,f,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,1,0,1,1,1,1,0,1.5,m,asian,no,yes,5,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,1,0,3,m,White European,no,no,3,1-3 years,family member,No
+0,0,0,0,0,1,1,0,1,0,2,f,middle eastern,no,no,3,1-3 years,family member,No
+1,1,0,0,0,0,1,0,1,1,3,f,White European,no,yes,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,1,0,0,2.5,f,middle eastern,no,no,1,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,3,m,White European,no,no,1,1-3 years,family member,No
+1,0,0,0,0,0,1,0,0,0,2.1,f,asian,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,1,1.2,m,middle eastern,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.2,m,middle eastern,no,no,10,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,1,0,1.2,m,White European,yes,no,6,1-3 years,family member,Yes
+0,0,1,1,1,0,0,1,0,0,2.9,m,asian,no,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.9,m,asian,no,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,0,1.6,f,Hispanic,no,no,9,1-3 years,family member,Yes
+0,0,0,1,0,0,0,0,0,0,2.6,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,1,0,0,0,0,0,0,2.6,f,middle eastern,yes,no,1,1-3 years,family member,No
+0,0,0,1,0,0,0,0,0,0,2.6,f,middle eastern,yes,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2.4,m,White European,no,no,10,1-3 years,family member,Yes
+1,0,0,0,1,1,1,1,1,0,3,m,White European,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.3,m,middle eastern,no,no,0,1-3 years,family member,No
+1,0,1,1,0,1,1,0,0,0,2.2,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,0,0,0,0,1,1,0,0,2.3,m,middle eastern,no,no,4,1-3 years,family member,Yes
+0,1,0,0,1,0,0,0,0,0,2.7,m,middle eastern,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,3,m,Latino,no,no,10,1-3 years,family member,Yes
+0,1,0,0,1,1,0,0,1,0,3,m,White European,no,no,4,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,1,1.5,m,Hispanic,no,no,8,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,1.8,m,middle eastern,yes,no,2,1-3 years,family member,No
+0,0,0,0,0,0,1,0,0,1,1.8,m,middle eastern,yes,no,2,1-3 years,family member,No
+1,0,0,0,0,1,1,0,0,1,1.8,m,middle eastern,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,1,2.7,m,Hispanic,no,no,9,1-3 years,family member,Yes
+0,0,0,0,0,1,1,1,1,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,1.7,m,asian,yes,no,0,1-3 years,family member,No
+1,1,1,0,1,0,1,0,1,1,2.2,m,asian,yes,no,7,1-3 years,family member,Yes
+1,1,0,1,1,0,1,1,1,0,1.5,m,black,yes,yes,7,1-3 years,family member,Yes
+0,0,0,1,1,1,0,1,0,0,2,m,asian,no,no,4,1-3 years,family member,Yes
+0,1,0,0,0,1,0,0,0,0,3,f,White European,yes,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,3,f,White European,yes,no,0,1-3 years,family member,No
+1,1,0,0,1,1,1,0,0,0,3,m,asian,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,0,1.8,f,Others,no,no,6,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,m,White European,yes,yes,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.6,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.3,m,White European,no,no,10,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,2.2,f,middle eastern,no,no,9,1-3 years,family member,Yes
+1,1,1,1,1,1,0,1,1,1,2,f,Hispanic,no,no,9,1-3 years,family member,Yes
+0,0,1,0,1,1,1,0,1,1,2.5,f,Others,yes,no,6,1-3 years,family member,Yes
+1,0,0,0,1,0,0,0,0,1,1,m,middle eastern,yes,no,3,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,0,2.2,f,White European,no,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,m,White European,yes,yes,10,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,3,m,White European,no,no,1,1-3 years,family member,No
+1,1,1,1,0,0,1,1,0,1,3,f,mixed,yes,no,7,1-3 years,family member,Yes
+0,1,0,1,0,1,1,1,1,1,3,f,mixed,yes,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,0,2.5,f,Latino,no,no,1,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.8,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,1,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,Others,no,no,0,1-3 years,family member,No
+0,0,1,1,0,0,0,1,1,0,2.6,m,south asian,no,no,4,1-3 years,family member,Yes
+0,0,1,1,1,1,1,0,1,1,2.5,f,Others,yes,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,f,Others,no,no,10,1-3 years,family member,Yes
+0,0,0,1,1,1,0,0,1,1,2.8,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,0,0,1,1,1,1,1,0,2.2,m,White European,no,yes,7,1-3 years,family member,Yes
+1,0,0,0,0,0,0,0,0,1,1,f,middle eastern,no,no,2,1-3 years,family member,No
+1,1,0,0,0,1,1,0,0,1,3,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,0,0,3,m,Hispanic,no,no,3,1-3 years,family member,No
+1,1,1,1,1,0,1,0,1,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,1,1,1,1,1,0,0,2,f,White European,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,Others,no,no,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2,m,south asian,no,no,10,1-3 years,family member,Yes
+0,0,1,1,1,0,0,1,0,1,3,m,Others,no,no,5,1-3 years,family member,Yes
+0,1,1,0,1,0,1,0,1,0,2.8,f,black,no,no,5,1-3 years,family member,Yes
+0,1,1,0,1,0,0,0,0,0,2.8,f,black,yes,no,3,1-3 years,family member,No
+0,1,1,0,1,0,0,0,0,0,2.8,f,black,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,2,m,White European,no,no,10,1-3 years,Health care professional,Yes
+0,0,0,0,0,0,0,0,0,0,2,m,black,no,no,0,1-3 years,family member,No
+0,0,0,1,1,1,0,1,0,1,2.4,m,asian,no,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,1.7,m,middle eastern,no,yes,10,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,0,1,2.5,m,Latino,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.2,f,south asian,no,no,0,1-3 years,family member,No
+0,1,1,1,0,1,1,1,1,1,3,m,middle eastern,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,m,White European,yes,no,10,1-3 years,family member,Yes
+1,1,1,1,0,1,1,1,1,1,2.2,f,White European,no,no,9,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,1.9,m,Latino,no,no,9,1-3 years,family member,Yes
+1,0,1,1,0,1,1,1,1,1,1.9,m,Latino,no,no,8,1-3 years,Health care professional,Yes
+0,0,1,1,1,0,1,0,1,0,3,f,south asian,no,no,5,1-3 years,family member,Yes
+1,1,1,1,0,1,1,0,1,1,1.8,f,Pacifica,yes,no,8,1-3 years,family member,Yes
+1,1,0,1,0,1,1,0,1,1,3,f,White European,no,no,7,1-3 years,family member,Yes
+1,1,0,0,1,0,1,1,1,0,3,m,Hispanic,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,1,1,1,1,1,2.2,m,black,no,no,6,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.3,f,black,no,no,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,1,1.8,m,asian,no,no,10,1-3 years,family member,Yes
+1,1,0,0,0,0,1,0,1,1,2.1,m,White European,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.3,f,White European,yes,no,10,1-3 years,family member,Yes
+1,1,1,0,0,0,1,0,1,0,1.1,f,Latino,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,1,1,1,0,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,0,1,1,0,0,1,1.9,m,White European,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,1,0,2,m,asian,no,no,1,1-3 years,family member,No
+0,0,1,1,0,0,0,0,1,1,2,m,asian,no,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,1,3,m,Hispanic,no,yes,8,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,1,m,asian,yes,no,2,1-3 years,family member,No
+1,0,1,1,1,1,1,1,1,0,2.4,m,White European,yes,no,8,1-3 years,family member,Yes
+0,1,1,1,1,1,1,1,1,0,3,m,middle eastern,yes,yes,8,1-3 years,family member,Yes
+0,0,0,0,1,0,1,0,0,1,3,m,south asian,no,no,3,1-3 years,family member,No
+0,0,0,0,0,0,0,1,0,1,2.2,m,asian,no,yes,2,1-3 years,family member,No
+1,1,1,1,0,0,1,1,0,1,2.7,m,asian,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,1,1,1,0,0,1,m,Latino,no,no,3,1-3 years,family member,No
+1,0,0,1,0,1,1,1,1,0,3,m,White European,yes,no,6,1-3 years,family member,Yes
+1,0,0,1,0,1,1,0,1,0,3,m,Others,yes,no,5,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,1,1,3,m,asian,no,no,7,1-3 years,family member,Yes
+1,0,1,1,0,0,0,0,1,0,1,m,White European,no,no,4,1-3 years,family member,Yes
+0,0,1,1,1,0,0,0,0,0,1,m,White European,no,no,3,1-3 years,family member,No
+1,0,0,1,0,0,0,0,1,0,1,m,White European,no,no,3,1-3 years,family member,No
+0,0,1,1,1,0,0,0,1,0,1,m,White European,no,no,4,1-3 years,family member,Yes
+0,0,1,1,1,0,0,0,0,0,1,m,White European,no,no,3,1-3 years,family member,No
+0,0,0,0,0,1,1,0,0,1,1.7,m,south asian,no,no,3,1-3 years,family member,No
+0,0,0,0,0,1,1,0,0,1,3,f,asian,no,no,3,1-3 years,family member,No
+0,0,0,0,0,1,1,0,0,1,3,f,asian,no,no,3,1-3 years,family member,No
+0,0,0,1,0,0,0,1,0,0,3,m,White European,yes,no,2,1-3 years,family member,No
+1,1,0,1,1,1,1,0,1,1,2.7,m,asian,no,no,8,1-3 years,family member,Yes
+0,0,0,0,1,1,0,1,0,1,2.9,f,asian,no,no,4,1-3 years,family member,Yes
+0,0,1,0,0,0,0,0,0,1,1.6,m,middle eastern,no,no,2,1-3 years,family member,No
+1,0,1,0,0,0,1,0,0,1,1.7,m,middle eastern,no,no,4,1-3 years,family member,Yes
+1,0,1,0,0,0,0,0,0,1,1.7,m,middle eastern,no,no,3,1-3 years,family member,No
+1,0,0,0,0,0,0,0,0,0,1,m,White European,no,no,1,1-3 years,family member,No
+1,0,0,0,0,0,0,0,0,1,1,m,White European,no,no,2,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,0,1,m,White European,no,no,0,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,1,m,White European,no,no,9,1-3 years,family member,Yes
+1,1,0,0,0,1,0,0,0,1,3,m,asian,no,no,4,1-3 years,Health care professional,Yes
+0,0,1,1,1,1,1,1,1,0,1.2,m,White European,yes,no,7,1-3 years,family member,Yes
+1,1,0,0,1,0,1,1,1,1,3,m,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,1,1,0,0,1,1,3,m,Native Indian,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,2,m,middle eastern,no,no,2,1-3 years,family member,No
+0,0,0,0,1,0,1,0,0,1,3,f,White European,no,no,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,0,1,2.2,m,black,no,yes,9,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,1,2.2,m,black,no,yes,9,1-3 years,family member,Yes
+1,1,0,0,1,0,0,1,1,0,3,m,south asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,1,1,0,1,0,1,2.9,f,asian,no,no,5,1-3 years,family member,Yes
+1,0,0,0,1,0,0,0,0,0,1.5,m,black,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,3,f,White European,no,no,9,1-3 years,family member,Yes
+1,1,1,1,0,0,0,1,0,0,1.8,f,Hispanic,no,no,5,1-3 years,family member,Yes
+1,1,0,1,1,1,1,1,1,1,2.4,m,south asian,yes,no,9,1-3 years,family member,Yes
+0,1,0,0,0,0,1,0,0,0,3,m,asian,no,no,2,1-3 years,family member,No
+0,1,0,0,1,1,1,0,0,0,3,m,asian,no,no,4,1-3 years,family member,Yes
+1,1,0,1,1,1,1,0,0,0,2.2,m,White European,no,yes,6,1-3 years,family member,Yes
+0,0,1,1,1,0,1,1,1,0,2.2,f,White European,no,no,6,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,1,2.2,m,middle eastern,yes,no,8,1-3 years,family member,Yes
+0,0,0,0,1,0,0,0,0,1,3,m,south asian,yes,no,2,1-3 years,family member,No
+1,0,1,1,1,1,1,0,1,0,1.3,m,White European,no,yes,7,1-3 years,family member,Yes
+1,0,1,1,0,1,1,1,0,0,2.3,m,asian,no,no,6,1-3 years,family member,Yes
+1,0,1,1,1,1,0,1,1,0,1.5,m,White European,no,no,7,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,1,0,3,m,south asian,no,no,3,1-3 years,family member,No
+0,0,0,0,1,1,0,1,0,1,2.9,f,asian,no,no,4,1-3 years,family member,Yes
+1,0,0,0,0,0,1,0,0,1,2.5,m,middle eastern,no,no,3,1-3 years,family member,No
+1,0,0,0,0,0,1,1,0,1,2.5,m,middle eastern,no,no,4,1-3 years,family member,Yes
+1,1,0,0,0,1,0,1,0,1,2.8,m,middle eastern,no,no,5,1-3 years,family member,Yes
+0,0,0,1,0,0,0,0,0,0,2,m,White European,no,no,1,1-3 years,family member,No
+1,1,0,1,1,1,0,1,0,1,3,m,White European,yes,yes,7,1-3 years,family member,Yes
+1,0,0,0,0,0,1,1,1,1,3,m,White European,no,yes,5,1-3 years,family member,Yes
+1,1,1,0,0,0,1,1,0,0,2,m,black,no,no,5,1-3 years,Others,Yes
+1,1,0,1,0,0,0,0,0,1,1.3,f,Latino,no,no,4,1-3 years,family member,Yes
+0,0,0,0,0,1,1,0,0,1,2,m,White European,no,no,3,1-3 years,family member,No
+1,0,1,1,1,1,0,1,1,0,2.5,m,White European,yes,no,7,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,0,0,3,m,asian,no,no,7,1-3 years,family member,Yes
+1,0,1,0,1,1,1,0,1,1,2,m,middle eastern,yes,no,7,1-3 years,family member,Yes
+0,0,0,1,1,0,1,1,0,1,3,m,south asian,yes,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,1,0,3,m,asian,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.8,f,White European,no,no,10,1-3 years,family member,Yes
+1,0,1,1,0,1,1,0,1,0,2,m,White European,no,no,6,1-3 years,family member,Yes
+1,1,1,0,1,1,0,0,1,1,1.9,m,White European,no,no,7,1-3 years,family member,Yes
+1,0,0,1,0,0,0,0,0,0,1,m,White European,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,0,1,1,2.5,f,middle eastern,no,no,9,1-3 years,family member,Yes
+0,0,0,0,1,0,1,1,0,1,3,m,south asian,yes,no,4,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,2.9,f,middle eastern,no,no,9,1-3 years,family member,Yes
+1,0,1,1,1,1,1,0,1,1,2.9,f,middle eastern,no,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,0,0,1,2.8,m,White European,no,no,8,1-3 years,family member,Yes
+1,0,0,1,0,0,1,0,0,1,2.8,m,asian,yes,no,4,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2,f,Latino,no,no,10,1-3 years,Health care professional,Yes
+1,1,0,0,0,0,0,0,1,1,3,m,White European,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,m,middle eastern,no,no,0,1-3 years,family member,No
+0,1,0,0,0,0,0,0,0,1,3,m,middle eastern,yes,no,2,1-3 years,family member,No
+0,0,0,1,0,0,0,0,1,1,3,m,asian,no,no,3,1-3 years,family member,No
+1,0,1,1,1,0,1,0,1,1,2.8,f,middle eastern,no,no,7,1-3 years,family member,Yes
+0,1,1,1,0,1,0,0,0,0,1.9,f,Pacifica,yes,no,4,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,3,m,Latino,no,no,2,1-3 years,family member,No
+1,0,0,0,1,1,0,1,0,1,2.8,f,asian,no,no,5,1-3 years,family member,Yes
+0,0,0,0,1,1,1,1,0,0,3,m,black,yes,no,4,1-3 years,Self,Yes
+1,0,0,1,1,0,1,0,1,0,2.2,m,White European,no,no,5,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,0,0,3,m,black,no,yes,8,1-3 years,family member,Yes
+1,0,1,1,1,0,1,0,0,1,2,m,asian,no,no,6,1-3 years,family member,Yes
+1,0,1,1,1,0,1,0,0,1,2,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,1,0,0,1,0,0,1,2.8,f,White European,no,yes,3,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,2.7,m,south asian,yes,yes,9,1-3 years,family member,Yes
+1,0,1,1,0,0,1,0,0,1,2,m,asian,no,no,5,1-3 years,family member,Yes
+0,1,1,1,1,1,1,1,1,1,2.5,m,Latino,no,no,9,1-3 years,family member,Yes
+0,1,0,0,1,1,0,0,1,0,3,m,White European,no,yes,4,1-3 years,family member,Yes
+0,0,0,0,0,0,1,0,0,1,2.7,m,south asian,no,no,2,1-3 years,family member,No
+1,1,1,1,1,1,1,1,1,0,2.5,m,middle eastern,no,no,9,1-3 years,family member,Yes
+1,0,0,0,0,1,1,1,1,0,2.5,f,White European,no,no,5,1-3 years,family member,Yes
+0,0,1,1,0,0,1,0,1,0,2,m,Latino,no,no,4,1-3 years,family member,Yes
+0,1,0,0,1,0,1,1,0,1,3,m,Hispanic,no,no,5,1-3 years,family member,Yes
+1,1,0,0,0,1,1,1,0,1,3,f,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,1,0,0,0,0,1,0,1.8,m,asian,no,no,3,1-3 years,family member,No
+1,1,0,0,1,1,1,0,0,1,3,m,asian,no,no,6,1-3 years,family member,Yes
+0,0,0,0,1,0,0,0,1,0,1.6,f,White European,yes,yes,2,1-3 years,family member,No
+0,1,1,1,1,1,1,1,0,0,1,m,White European,no,no,7,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,3,f,White European,no,yes,0,1-3 years,family member,No
+1,1,0,0,0,0,0,1,0,1,3,m,White European,no,yes,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.9,m,asian,yes,no,1,1-3 years,family member,No
+0,0,0,0,0,0,1,1,0,1,1.9,m,asian,yes,no,3,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,3,m,White European,no,no,1,1-3 years,family member,No
+0,0,1,1,1,0,0,1,1,0,2.4,m,White European,no,no,5,1-3 years,family member,Yes
+0,0,1,1,1,1,0,0,1,0,1.8,f,Latino,no,no,5,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,1,1,3,m,White European,no,yes,8,1-3 years,family member,Yes
+0,0,0,0,1,0,0,1,0,1,3,m,south asian,yes,no,3,1-3 years,family member,No
+1,1,0,0,0,1,1,1,0,1,3,f,Others,no,yes,6,1-3 years,family member,Yes
+1,0,1,1,1,0,1,0,0,0,2.7,m,White European,yes,no,5,1-3 years,family member,Yes
+0,0,0,0,0,1,0,0,0,1,1.3,m,south asian,yes,yes,2,1-3 years,Health care professional,No
+0,0,0,0,0,0,0,1,0,0,2.3,m,White European,no,no,1,1-3 years,family member,No
+1,0,0,1,0,1,1,1,0,0,1.5,m,Others,yes,no,5,1-3 years,family member,Yes
+1,1,0,1,0,1,1,1,0,0,1.2,f,asian,no,no,6,1-3 years,family member,Yes
+0,0,1,0,0,0,0,0,0,0,1,m,White European,no,no,1,1-3 years,family member,No
+1,1,0,0,0,0,1,0,1,0,2.2,m,asian,no,yes,4,1-3 years,family member,Yes
+0,0,0,0,1,1,1,0,1,0,2.2,m,asian,no,yes,4,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,1,2.1,m,White European,no,no,1,1-3 years,family member,No
+0,0,0,1,0,0,1,0,0,0,2.1,m,White European,yes,no,2,1-3 years,family member,No
+1,1,1,1,0,0,1,1,1,1,2.5,m,Hispanic,yes,no,8,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.1,m,asian,no,yes,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.1,m,asian,no,yes,10,1-3 years,family member,Yes
+1,1,1,1,1,1,1,1,1,1,2.5,m,middle eastern,no,no,10,1-3 years,Health care professional,Yes
+0,1,0,1,1,1,1,1,1,0,2,f,middle eastern,no,no,7,1-3 years,family member,Yes
+1,1,0,0,1,1,1,0,0,0,2.5,f,White European,no,no,5,1-3 years,family member,Yes
+0,0,0,0,0,0,0,0,0,0,2.5,f,White European,no,no,0,1-3 years,family member,No
+0,0,0,0,0,0,0,0,0,1,2,f,White European,no,yes,1,1-3 years,family member,No
+0,0,1,1,1,0,1,0,1,0,1,m,black,yes,no,5,1-3 years,family member,Yes
+1,0,1,1,1,1,1,1,1,1,1.5,m,middle eastern,yes,no,9,1-3 years,family member,Yes
+1,0,0,0,0,0,0,1,0,1,1.6,m,White European,no,yes,3,1-3 years,family member,No
+1,1,0,0,1,1,0,1,1,0,2,m,asian,yes,yes,6,1-3 years,family member,Yes
