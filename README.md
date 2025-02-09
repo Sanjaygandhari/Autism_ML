@@ -3,19 +3,19 @@ Project_Overview:
     This project focuses on leveraging Machine Learning (ML) algorithms to screen for Autism Spectrum Condition (ASC) in children efficiently and accurately. Early diagnosis of ASC is critical for timely intervention, and this system aims to reduce waiting times by providing a quick and accessible preliminary screening tool.
 
 Key_Features:
-Input Method: Users respond to a series of binary questions (Yes = 1, No = 0) regarding behavioral and developmental traits.
-Algorithms: Includes models such as Decision Tree, Random Forest, Naïve Bayes, Support Vector Machine (SVM), and Gradient Boosting.
+Input Method: Users respond to a series of binary questions (Yes = 1, No = 0) regarding behavioural and developmental traits.
+Algorithms: This includes models such as Decision Trees, Random Forests, Naïve Bayes, Support Vector Machines (SVMs), and Gradient Boosting.
 Best Performing Model: Gradient Boosting with an accuracy of 96.55%.
-Deployment: The model is deployed on a web application using Streamlit, allowing users to input responses and get the probability of ASC.
+Deployment: The model is deployed on a web application using Streamlit, which allows users to input responses and obtain the probability of ASC.
 
 Technical_Highlights:
-Dataset: Compiled from multiple online sources, containing 1346 records with attributes like behavioral responses, age, gender, and familial factors.
-Tools Used:Programming Language: Python.
+Dataset: Compiled from multiple online sources, containing 1346 records with attributes like behavioural responses, age, gender, and familial factors.
+Tools Used: Programming Language: Python.
 Libraries: Pandas, NumPy, Scikit-learn, Streamlit.
 Steps Involved:
-1.Data preprocessing and feature engineering.
-2.Training and testing multiple ML models.
-3.Deploying the best model to a user-friendly web app.
+1. Data preprocessing and feature engineering.
+2. Training and testing multiple ML models.
+3. Deploying the best model to a user-friendly web app.
 
 How_It_Works:
 1.Users answer 10 behavioral questions and provide 5 demographic details.
